@@ -1,0 +1,3404 @@
+[Tick 1]
+Generated: P1 to Stuttgart (Priority 1)
+Generated: P2 to Munich (Priority 1)
+Generated: P3 to Cologne (Priority 3)
+Sorted to BST: P1 → Stuttgart
+Sorted to BST: P2 → Munich
+Sorted to BST: P3 → Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 2]
+Generated: P4 to Cologne (Priority 3)
+Generated: P5 to Hamburg (Priority 2)
+Generated: P6 to Hamburg (Priority 1)
+Generated: P7 to Berlin (Priority 3)
+Sorted to BST: P4 → Cologne
+Sorted to BST: P5 → Hamburg
+Sorted to BST: P6 → Hamburg
+Sorted to BST: P7 → Berlin
+Dispatched: P7 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 3]
+Generated: P8 to Hamburg (Priority 1)
+Generated: P9 to Cologne (Priority 2)
+Generated: P10 to Munich (Priority 2)
+Generated: P11 to Stuttgart (Priority 3)
+Sorted to BST: P8 → Hamburg
+Sorted to BST: P9 → Cologne
+Sorted to BST: P10 → Munich
+Sorted to BST: P11 → Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 4]
+Generated: P12 to Stuttgart (Priority 3)
+Generated: P13 to Berlin (Priority 2)
+Generated: P14 to Berlin (Priority 2)
+Generated: P15 to Munich (Priority 1)
+Sorted to BST: P12 → Stuttgart
+Sorted to BST: P13 → Berlin
+Sorted to BST: P14 → Berlin
+Sorted to BST: P15 → Munich
+Dispatched: P13 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 5]
+Generated: P16 to Stuttgart (Priority 1)
+Generated: P17 to Munich (Priority 1)
+Generated: P18 to Cologne (Priority 1)
+Sorted to BST: P16 → Stuttgart
+Sorted to BST: P17 → Munich
+Sorted to BST: P18 → Cologne
+Dispatched: P14 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 6]
+Generated: P19 to Munich (Priority 1)
+Generated: P20 to Hamburg (Priority 1)
+Generated: P21 to Berlin (Priority 2)
+Sorted to BST: P19 → Munich
+Sorted to BST: P20 → Hamburg
+Sorted to BST: P21 → Berlin
+Dispatched: P5 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 7]
+Generated: P22 to Hamburg (Priority 2)
+Generated: P23 to Cologne (Priority 1)
+Generated: P24 to Berlin (Priority 1)
+Sorted to BST: P22 → Hamburg
+Sorted to BST: P23 → Cologne
+Sorted to BST: P24 → Berlin
+Dispatched: P6 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 8]
+Generated: P25 to Hamburg (Priority 2)
+Generated: P26 to Cologne (Priority 1)
+Sorted to BST: P25 → Hamburg
+Sorted to BST: P26 → Cologne
+Dispatched: P8 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 9]
+Generated: P27 to Cologne (Priority 2)
+Generated: P28 to Cologne (Priority 3)
+Generated: P29 to Hamburg (Priority 3)
+Sorted to BST: P27 → Cologne
+Sorted to BST: P28 → Cologne
+Sorted to BST: P29 → Hamburg
+Dispatched: P20 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 10]
+Generated: P30 to Stuttgart (Priority 3)
+Generated: P31 to Berlin (Priority 2)
+Sorted to BST: P30 → Stuttgart
+Sorted to BST: P31 → Berlin
+Dispatched: P22 to Hamburg
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 11]
+Generated: P32 to Munich (Priority 1)
+Generated: P33 to Hamburg (Priority 1)
+Generated: P34 to Stuttgart (Priority 1)
+Sorted to BST: P32 → Munich
+Sorted to BST: P33 → Hamburg
+Sorted to BST: P34 → Stuttgart
+Dispatched: P2 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 12]
+Generated: P35 to Cologne (Priority 1)
+Generated: P36 to Cologne (Priority 3)
+Generated: P37 to Munich (Priority 3)
+Sorted to BST: P35 → Cologne
+Sorted to BST: P36 → Cologne
+Sorted to BST: P37 → Munich
+>>> RETURNED (misrouted): P10
+>>> REPROCESSED from ReturnStack: P10
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 13]
+Generated: P38 to Cologne (Priority 3)
+Generated: P39 to Stuttgart (Priority 1)
+Generated: P40 to Cologne (Priority 1)
+Generated: P41 to Stuttgart (Priority 1)
+Sorted to BST: P38 → Cologne
+Sorted to BST: P39 → Stuttgart
+Sorted to BST: P40 → Cologne
+Sorted to BST: P41 → Stuttgart
+Dispatched: P15 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 14]
+Generated: P42 to Hamburg (Priority 2)
+Generated: P43 to Stuttgart (Priority 3)
+Generated: P44 to Hamburg (Priority 2)
+Generated: P45 to Cologne (Priority 1)
+Sorted to BST: P42 → Hamburg
+Sorted to BST: P43 → Stuttgart
+Sorted to BST: P44 → Hamburg
+Sorted to BST: P45 → Cologne
+Dispatched: P17 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 15]
+Generated: P46 to Munich (Priority 3)
+Generated: P47 to Cologne (Priority 3)
+Sorted to BST: P46 → Munich
+Sorted to BST: P47 → Cologne
+Dispatched: P19 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 16]
+Generated: P48 to Cologne (Priority 2)
+Generated: P49 to Munich (Priority 2)
+Sorted to BST: P48 → Cologne
+Sorted to BST: P49 → Munich
+Dispatched: P3 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 17]
+Generated: P50 to Cologne (Priority 2)
+Generated: P51 to Munich (Priority 1)
+Generated: P52 to Hamburg (Priority 2)
+Generated: P53 to Munich (Priority 2)
+Sorted to BST: P50 → Cologne
+Sorted to BST: P51 → Munich
+Sorted to BST: P52 → Hamburg
+Sorted to BST: P53 → Munich
+>>> RETURNED (misrouted): P4
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 18]
+Generated: P54 to Munich (Priority 1)
+Generated: P55 to Cologne (Priority 1)
+Sorted to BST: P54 → Munich
+Sorted to BST: P55 → Cologne
+Dispatched: P9 to Cologne
+>>> REPROCESSED from ReturnStack: P4
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 19]
+Generated: P56 to Hamburg (Priority 3)
+Generated: P57 to Stuttgart (Priority 1)
+Sorted to BST: P56 → Hamburg
+Sorted to BST: P57 → Stuttgart
+Dispatched: P18 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 20]
+Generated: P58 to Berlin (Priority 1)
+Generated: P59 to Munich (Priority 2)
+Generated: P60 to Munich (Priority 2)
+Generated: P61 to Hamburg (Priority 1)
+Sorted to BST: P58 → Berlin
+Sorted to BST: P59 → Munich
+Sorted to BST: P60 → Munich
+Sorted to BST: P61 → Hamburg
+>>> RETURNED (misrouted): P23
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 21]
+Generated: P62 to Munich (Priority 3)
+Generated: P63 to Stuttgart (Priority 3)
+Generated: P64 to Cologne (Priority 2)
+Sorted to BST: P62 → Munich
+Sorted to BST: P63 → Stuttgart
+Sorted to BST: P64 → Cologne
+Dispatched: P1 to Stuttgart
+>>> REPROCESSED from ReturnStack: P23
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 22]
+Generated: P65 to Berlin (Priority 1)
+Generated: P66 to Stuttgart (Priority 3)
+Generated: P67 to Berlin (Priority 1)
+Generated: P68 to Hamburg (Priority 2)
+Sorted to BST: P65 → Berlin
+Sorted to BST: P66 → Stuttgart
+Sorted to BST: P67 → Berlin
+Sorted to BST: P68 → Hamburg
+Dispatched: P11 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 23]
+Generated: P69 to Berlin (Priority 3)
+Generated: P70 to Munich (Priority 2)
+Sorted to BST: P69 → Berlin
+Sorted to BST: P70 → Munich
+Dispatched: P12 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 24]
+Generated: P71 to Cologne (Priority 2)
+Generated: P72 to Munich (Priority 2)
+Generated: P73 to Stuttgart (Priority 1)
+Generated: P74 to Cologne (Priority 1)
+Sorted to BST: P71 → Cologne
+Sorted to BST: P72 → Munich
+Sorted to BST: P73 → Stuttgart
+Sorted to BST: P74 → Cologne
+Dispatched: P16 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 25]
+Generated: P75 to Hamburg (Priority 1)
+Generated: P76 to Cologne (Priority 1)
+Generated: P77 to Stuttgart (Priority 3)
+Generated: P78 to Munich (Priority 3)
+Sorted to BST: P75 → Hamburg
+Sorted to BST: P76 → Cologne
+Sorted to BST: P77 → Stuttgart
+Sorted to BST: P78 → Munich
+Dispatched: P30 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 26]
+Generated: P79 to Berlin (Priority 2)
+Generated: P80 to Berlin (Priority 2)
+Sorted to BST: P79 → Berlin
+Sorted to BST: P80 → Berlin
+Dispatched: P21 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 27]
+Generated: P81 to Cologne (Priority 2)
+Generated: P82 to Stuttgart (Priority 3)
+Sorted to BST: P81 → Cologne
+Sorted to BST: P82 → Stuttgart
+Dispatched: P24 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 28]
+Generated: P83 to Stuttgart (Priority 2)
+Generated: P84 to Stuttgart (Priority 2)
+Generated: P85 to Stuttgart (Priority 3)
+Generated: P86 to Cologne (Priority 3)
+Sorted to BST: P83 → Stuttgart
+Sorted to BST: P84 → Stuttgart
+Sorted to BST: P85 → Stuttgart
+Sorted to BST: P86 → Cologne
+Dispatched: P31 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 29]
+Generated: P87 to Hamburg (Priority 3)
+Generated: P88 to Stuttgart (Priority 1)
+Generated: P89 to Stuttgart (Priority 1)
+Generated: P90 to Hamburg (Priority 3)
+Sorted to BST: P87 → Hamburg
+Sorted to BST: P88 → Stuttgart
+Sorted to BST: P89 → Stuttgart
+Sorted to BST: P90 → Hamburg
+Dispatched: P58 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 30]
+Generated: P91 to Cologne (Priority 2)
+Generated: P92 to Berlin (Priority 2)
+Sorted to BST: P91 → Cologne
+Sorted to BST: P92 → Berlin
+Dispatched: P65 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 31]
+Generated: P93 to Hamburg (Priority 3)
+Generated: P94 to Berlin (Priority 2)
+Generated: P95 to Munich (Priority 3)
+Generated: P96 to Berlin (Priority 3)
+Sorted to BST: P93 → Hamburg
+Sorted to BST: P94 → Berlin
+Sorted to BST: P95 → Munich
+Sorted to BST: P96 → Berlin
+Dispatched: P25 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 32]
+Generated: P97 to Hamburg (Priority 1)
+Generated: P98 to Stuttgart (Priority 2)
+Generated: P99 to Hamburg (Priority 1)
+Generated: P100 to Cologne (Priority 2)
+Sorted to BST: P97 → Hamburg
+Sorted to BST: P98 → Stuttgart
+Sorted to BST: P99 → Hamburg
+Sorted to BST: P100 → Cologne
+>>> RETURNED (misrouted): P29
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 33]
+Generated: P101 to Hamburg (Priority 1)
+Generated: P102 to Munich (Priority 3)
+Sorted to BST: P101 → Hamburg
+Sorted to BST: P102 → Munich
+Dispatched: P33 to Hamburg
+>>> REPROCESSED from ReturnStack: P29
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 34]
+Generated: P103 to Munich (Priority 3)
+Generated: P104 to Berlin (Priority 3)
+Sorted to BST: P103 → Munich
+Sorted to BST: P104 → Berlin
+Dispatched: P42 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 35]
+Generated: P105 to Stuttgart (Priority 3)
+Generated: P106 to Cologne (Priority 2)
+Generated: P107 to Munich (Priority 1)
+Sorted to BST: P105 → Stuttgart
+Sorted to BST: P106 → Cologne
+Sorted to BST: P107 → Munich
+>>> RETURNED (misrouted): P44
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 36]
+Generated: P108 to Berlin (Priority 1)
+Generated: P109 to Stuttgart (Priority 3)
+Generated: P110 to Berlin (Priority 1)
+Sorted to BST: P108 → Berlin
+Sorted to BST: P109 → Stuttgart
+Sorted to BST: P110 → Berlin
+Dispatched: P32 to Munich
+>>> REPROCESSED from ReturnStack: P44
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 37]
+Generated: P111 to Berlin (Priority 3)
+Generated: P112 to Cologne (Priority 3)
+Sorted to BST: P111 → Berlin
+Sorted to BST: P112 → Cologne
+Dispatched: P37 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 38]
+Generated: P113 to Hamburg (Priority 1)
+Generated: P114 to Munich (Priority 3)
+Generated: P115 to Berlin (Priority 1)
+Sorted to BST: P113 → Hamburg
+Sorted to BST: P114 → Munich
+Sorted to BST: P115 → Berlin
+Dispatched: P10 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 39]
+Generated: P116 to Hamburg (Priority 3)
+Generated: P117 to Stuttgart (Priority 2)
+Sorted to BST: P116 → Hamburg
+Sorted to BST: P117 → Stuttgart
+Dispatched: P46 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 40]
+Generated: P118 to Cologne (Priority 1)
+Generated: P119 to Munich (Priority 2)
+Sorted to BST: P118 → Cologne
+Sorted to BST: P119 → Munich
+>>> RETURNED (misrouted): P49
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 41]
+Generated: P120 to Hamburg (Priority 2)
+Generated: P121 to Munich (Priority 2)
+Sorted to BST: P120 → Hamburg
+Sorted to BST: P121 → Munich
+Dispatched: P26 to Cologne
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 42]
+Generated: P122 to Hamburg (Priority 1)
+Generated: P123 to Munich (Priority 2)
+Generated: P124 to Cologne (Priority 2)
+Generated: P125 to Stuttgart (Priority 3)
+Sorted to BST: P122 → Hamburg
+Sorted to BST: P123 → Munich
+Sorted to BST: P124 → Cologne
+Sorted to BST: P125 → Stuttgart
+>>> RETURNED (misrouted): P27
+>>> REPROCESSED from ReturnStack: P27
+>>> REPROCESSED from ReturnStack: P49
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 43]
+Generated: P126 to Stuttgart (Priority 2)
+Generated: P127 to Hamburg (Priority 1)
+Generated: P128 to Hamburg (Priority 1)
+Generated: P129 to Hamburg (Priority 2)
+Sorted to BST: P126 → Stuttgart
+Sorted to BST: P127 → Hamburg
+Sorted to BST: P128 → Hamburg
+Sorted to BST: P129 → Hamburg
+Dispatched: P28 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 44]
+Generated: P130 to Stuttgart (Priority 3)
+Generated: P131 to Hamburg (Priority 2)
+Generated: P132 to Cologne (Priority 1)
+Generated: P133 to Berlin (Priority 2)
+Sorted to BST: P130 → Stuttgart
+Sorted to BST: P131 → Hamburg
+Sorted to BST: P132 → Cologne
+Sorted to BST: P133 → Berlin
+Dispatched: P35 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 45]
+Generated: P134 to Cologne (Priority 2)
+Generated: P135 to Hamburg (Priority 1)
+Sorted to BST: P134 → Cologne
+Sorted to BST: P135 → Hamburg
+>>> RETURNED (misrouted): P36
+>>> REPROCESSED from ReturnStack: P36
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 46]
+Generated: P136 to Stuttgart (Priority 2)
+Generated: P137 to Munich (Priority 3)
+Generated: P138 to Stuttgart (Priority 1)
+Generated: P139 to Berlin (Priority 2)
+Sorted to BST: P136 → Stuttgart
+Sorted to BST: P137 → Munich
+Sorted to BST: P138 → Stuttgart
+Sorted to BST: P139 → Berlin
+Dispatched: P34 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 47]
+Generated: P140 to Berlin (Priority 1)
+Generated: P141 to Stuttgart (Priority 2)
+Generated: P142 to Cologne (Priority 1)
+Sorted to BST: P140 → Berlin
+Sorted to BST: P141 → Stuttgart
+Sorted to BST: P142 → Cologne
+Dispatched: P39 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 48]
+Generated: P143 to Berlin (Priority 1)
+Generated: P144 to Munich (Priority 1)
+Sorted to BST: P143 → Berlin
+Sorted to BST: P144 → Munich
+Dispatched: P41 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 49]
+Generated: P145 to Stuttgart (Priority 1)
+Generated: P146 to Munich (Priority 1)
+Generated: P147 to Hamburg (Priority 3)
+Sorted to BST: P145 → Stuttgart
+Sorted to BST: P146 → Munich
+Sorted to BST: P147 → Hamburg
+Dispatched: P43 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 50]
+Generated: P148 to Stuttgart (Priority 3)
+Generated: P149 to Berlin (Priority 3)
+Generated: P150 to Stuttgart (Priority 3)
+Generated: P151 to Hamburg (Priority 3)
+Sorted to BST: P148 → Stuttgart
+Sorted to BST: P149 → Berlin
+Sorted to BST: P150 → Stuttgart
+Sorted to BST: P151 → Hamburg
+Dispatched: P57 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 51]
+Generated: P152 to Cologne (Priority 3)
+Generated: P153 to Munich (Priority 1)
+Generated: P154 to Cologne (Priority 2)
+Sorted to BST: P152 → Cologne
+Sorted to BST: P153 → Munich
+Sorted to BST: P154 → Cologne
+Dispatched: P67 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 52]
+Generated: P155 to Stuttgart (Priority 1)
+Generated: P156 to Cologne (Priority 3)
+Sorted to BST: P155 → Stuttgart
+Sorted to BST: P156 → Cologne
+Dispatched: P69 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 53]
+Generated: P157 to Cologne (Priority 1)
+Generated: P158 to Berlin (Priority 1)
+Sorted to BST: P157 → Cologne
+Sorted to BST: P158 → Berlin
+>>> RETURNED (misrouted): P79
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 54]
+Generated: P159 to Munich (Priority 2)
+Generated: P160 to Hamburg (Priority 1)
+Generated: P161 to Stuttgart (Priority 2)
+Sorted to BST: P159 → Munich
+Sorted to BST: P160 → Hamburg
+Sorted to BST: P161 → Stuttgart
+Dispatched: P80 to Berlin
+>>> REPROCESSED from ReturnStack: P79
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 55]
+Generated: P162 to Munich (Priority 3)
+Generated: P163 to Hamburg (Priority 1)
+Generated: P164 to Hamburg (Priority 3)
+Sorted to BST: P162 → Munich
+Sorted to BST: P163 → Hamburg
+Sorted to BST: P164 → Hamburg
+Dispatched: P92 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 56]
+Generated: P165 to Hamburg (Priority 2)
+Generated: P166 to Cologne (Priority 1)
+Generated: P167 to Stuttgart (Priority 1)
+Generated: P168 to Munich (Priority 2)
+Sorted to BST: P165 → Hamburg
+Sorted to BST: P166 → Cologne
+Sorted to BST: P167 → Stuttgart
+Sorted to BST: P168 → Munich
+Dispatched: P52 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 57]
+Generated: P169 to Cologne (Priority 2)
+Generated: P170 to Hamburg (Priority 3)
+Generated: P171 to Berlin (Priority 1)
+Sorted to BST: P169 → Cologne
+Sorted to BST: P170 → Hamburg
+Sorted to BST: P171 → Berlin
+Dispatched: P56 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 58]
+Generated: P172 to Hamburg (Priority 3)
+Generated: P173 to Cologne (Priority 2)
+Sorted to BST: P172 → Hamburg
+Sorted to BST: P173 → Cologne
+>>> RETURNED (misrouted): P61
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 59]
+Generated: P174 to Munich (Priority 1)
+Generated: P175 to Berlin (Priority 3)
+Generated: P176 to Munich (Priority 3)
+Sorted to BST: P174 → Munich
+Sorted to BST: P175 → Berlin
+Sorted to BST: P176 → Munich
+Dispatched: P68 to Hamburg
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 60]
+Generated: P177 to Munich (Priority 1)
+Generated: P178 to Berlin (Priority 2)
+Generated: P179 to Hamburg (Priority 2)
+Sorted to BST: P177 → Munich
+Sorted to BST: P178 → Berlin
+Sorted to BST: P179 → Hamburg
+Dispatched: P75 to Hamburg
+>>> REPROCESSED from ReturnStack: P61
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 61]
+Generated: P180 to Cologne (Priority 3)
+Generated: P181 to Berlin (Priority 2)
+Generated: P182 to Berlin (Priority 2)
+Generated: P183 to Hamburg (Priority 1)
+Sorted to BST: P180 → Cologne
+Sorted to BST: P181 → Berlin
+Sorted to BST: P182 → Berlin
+Sorted to BST: P183 → Hamburg
+Dispatched: P51 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 62]
+Generated: P184 to Stuttgart (Priority 1)
+Generated: P185 to Hamburg (Priority 2)
+Generated: P186 to Berlin (Priority 2)
+Sorted to BST: P184 → Stuttgart
+Sorted to BST: P185 → Hamburg
+Sorted to BST: P186 → Berlin
+>>> RETURNED (misrouted): P53
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 63]
+Generated: P187 to Hamburg (Priority 3)
+Generated: P188 to Cologne (Priority 3)
+Generated: P189 to Munich (Priority 2)
+Generated: P190 to Stuttgart (Priority 3)
+Sorted to BST: P187 → Hamburg
+Sorted to BST: P188 → Cologne
+Sorted to BST: P189 → Munich
+Sorted to BST: P190 → Stuttgart
+Dispatched: P54 to Munich
+>>> REPROCESSED from ReturnStack: P53
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 64]
+Generated: P191 to Cologne (Priority 1)
+Generated: P192 to Stuttgart (Priority 1)
+Generated: P193 to Cologne (Priority 3)
+Sorted to BST: P191 → Cologne
+Sorted to BST: P192 → Stuttgart
+Sorted to BST: P193 → Cologne
+Dispatched: P59 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 65]
+Generated: P194 to Munich (Priority 1)
+Generated: P195 to Cologne (Priority 3)
+Sorted to BST: P194 → Munich
+Sorted to BST: P195 → Cologne
+Dispatched: P60 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 66]
+Generated: P196 to Stuttgart (Priority 3)
+Generated: P197 to Berlin (Priority 1)
+Sorted to BST: P196 → Stuttgart
+Sorted to BST: P197 → Berlin
+Dispatched: P38 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 67]
+Generated: P198 to Stuttgart (Priority 2)
+Generated: P199 to Cologne (Priority 3)
+Generated: P200 to Munich (Priority 2)
+Sorted to BST: P198 → Stuttgart
+Sorted to BST: P199 → Cologne
+Sorted to BST: P200 → Munich
+Dispatched: P40 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 68]
+Generated: P201 to Munich (Priority 2)
+Generated: P202 to Cologne (Priority 1)
+Generated: P203 to Berlin (Priority 2)
+Generated: P204 to Berlin (Priority 3)
+Sorted to BST: P201 → Munich
+Sorted to BST: P202 → Cologne
+Sorted to BST: P203 → Berlin
+Sorted to BST: P204 → Berlin
+Dispatched: P45 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 69]
+Generated: P205 to Munich (Priority 1)
+Generated: P206 to Hamburg (Priority 3)
+Generated: P207 to Berlin (Priority 1)
+Generated: P208 to Cologne (Priority 1)
+Sorted to BST: P205 → Munich
+Sorted to BST: P206 → Hamburg
+Sorted to BST: P207 → Berlin
+Sorted to BST: P208 → Cologne
+Dispatched: P47 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 70]
+Generated: P209 to Cologne (Priority 3)
+Generated: P210 to Cologne (Priority 3)
+Sorted to BST: P209 → Cologne
+Sorted to BST: P210 → Cologne
+Dispatched: P48 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 71]
+Generated: P211 to Berlin (Priority 2)
+Generated: P212 to Cologne (Priority 1)
+Sorted to BST: P211 → Berlin
+Sorted to BST: P212 → Cologne
+Dispatched: P63 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 72]
+Generated: P213 to Hamburg (Priority 1)
+Generated: P214 to Hamburg (Priority 3)
+Generated: P215 to Hamburg (Priority 1)
+Sorted to BST: P213 → Hamburg
+Sorted to BST: P214 → Hamburg
+Sorted to BST: P215 → Hamburg
+Dispatched: P66 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 73]
+Generated: P216 to Cologne (Priority 1)
+Generated: P217 to Cologne (Priority 2)
+Generated: P218 to Munich (Priority 3)
+Sorted to BST: P216 → Cologne
+Sorted to BST: P217 → Cologne
+Sorted to BST: P218 → Munich
+Dispatched: P73 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 74]
+Generated: P219 to Berlin (Priority 1)
+Generated: P220 to Cologne (Priority 1)
+Generated: P221 to Stuttgart (Priority 1)
+Generated: P222 to Munich (Priority 3)
+Sorted to BST: P219 → Berlin
+Sorted to BST: P220 → Cologne
+Sorted to BST: P221 → Stuttgart
+Sorted to BST: P222 → Munich
+Dispatched: P77 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 75]
+Generated: P223 to Stuttgart (Priority 3)
+Generated: P224 to Stuttgart (Priority 3)
+Generated: P225 to Munich (Priority 1)
+Sorted to BST: P223 → Stuttgart
+Sorted to BST: P224 → Stuttgart
+Sorted to BST: P225 → Munich
+Dispatched: P82 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 76]
+Generated: P226 to Stuttgart (Priority 1)
+Generated: P227 to Munich (Priority 1)
+Generated: P228 to Hamburg (Priority 3)
+Sorted to BST: P226 → Stuttgart
+Sorted to BST: P227 → Munich
+Sorted to BST: P228 → Hamburg
+Dispatched: P94 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 77]
+Generated: P229 to Stuttgart (Priority 2)
+Generated: P230 to Stuttgart (Priority 1)
+Generated: P231 to Berlin (Priority 2)
+Sorted to BST: P229 → Stuttgart
+Sorted to BST: P230 → Stuttgart
+Sorted to BST: P231 → Berlin
+Dispatched: P96 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 78]
+Generated: P232 to Munich (Priority 3)
+Generated: P233 to Stuttgart (Priority 3)
+Generated: P234 to Cologne (Priority 2)
+Sorted to BST: P232 → Munich
+Sorted to BST: P233 → Stuttgart
+Sorted to BST: P234 → Cologne
+Dispatched: P104 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 79]
+Generated: P235 to Berlin (Priority 3)
+Generated: P236 to Hamburg (Priority 1)
+Generated: P237 to Berlin (Priority 3)
+Generated: P238 to Cologne (Priority 2)
+Sorted to BST: P235 → Berlin
+Sorted to BST: P236 → Hamburg
+Sorted to BST: P237 → Berlin
+Sorted to BST: P238 → Cologne
+>>> RETURNED (misrouted): P108
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 80]
+Generated: P239 to Stuttgart (Priority 3)
+Generated: P240 to Munich (Priority 3)
+Sorted to BST: P239 → Stuttgart
+Sorted to BST: P240 → Munich
+Dispatched: P110 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 81]
+Generated: P241 to Munich (Priority 3)
+Generated: P242 to Munich (Priority 2)
+Generated: P243 to Hamburg (Priority 2)
+Sorted to BST: P241 → Munich
+Sorted to BST: P242 → Munich
+Sorted to BST: P243 → Hamburg
+Dispatched: P87 to Hamburg
+>>> REPROCESSED from ReturnStack: P108
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 82]
+Generated: P244 to Hamburg (Priority 2)
+Generated: P245 to Cologne (Priority 2)
+Generated: P246 to Berlin (Priority 3)
+Generated: P247 to Hamburg (Priority 3)
+Sorted to BST: P244 → Hamburg
+Sorted to BST: P245 → Cologne
+Sorted to BST: P246 → Berlin
+Sorted to BST: P247 → Hamburg
+Dispatched: P90 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 83]
+Generated: P248 to Stuttgart (Priority 1)
+Generated: P249 to Berlin (Priority 2)
+Generated: P250 to Cologne (Priority 3)
+Generated: P251 to Hamburg (Priority 3)
+Sorted to BST: P248 → Stuttgart
+Sorted to BST: P249 → Berlin
+Sorted to BST: P250 → Cologne
+Sorted to BST: P251 → Hamburg
+Dispatched: P93 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 84]
+Generated: P252 to Stuttgart (Priority 1)
+Generated: P253 to Stuttgart (Priority 2)
+Generated: P254 to Hamburg (Priority 2)
+Generated: P255 to Hamburg (Priority 3)
+Sorted to BST: P252 → Stuttgart
+Sorted to BST: P253 → Stuttgart
+Sorted to BST: P254 → Hamburg
+Sorted to BST: P255 → Hamburg
+>>> RETURNED (misrouted): P97
+>>> REPROCESSED from ReturnStack: P97
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 85]
+Generated: P256 to Stuttgart (Priority 3)
+Generated: P257 to Stuttgart (Priority 2)
+Sorted to BST: P256 → Stuttgart
+Sorted to BST: P257 → Stuttgart
+Dispatched: P99 to Hamburg
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 86]
+Generated: P258 to Berlin (Priority 2)
+Generated: P259 to Hamburg (Priority 3)
+Generated: P260 to Cologne (Priority 1)
+Generated: P261 to Stuttgart (Priority 2)
+Sorted to BST: P258 → Berlin
+Sorted to BST: P259 → Hamburg
+Sorted to BST: P260 → Cologne
+Sorted to BST: P261 → Stuttgart
+Dispatched: P62 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 87]
+Generated: P262 to Cologne (Priority 2)
+Generated: P263 to Cologne (Priority 2)
+Sorted to BST: P262 → Cologne
+Sorted to BST: P263 → Cologne
+Dispatched: P70 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 88]
+Generated: P264 to Munich (Priority 3)
+Generated: P265 to Cologne (Priority 3)
+Generated: P266 to Stuttgart (Priority 2)
+Sorted to BST: P264 → Munich
+Sorted to BST: P265 → Cologne
+Sorted to BST: P266 → Stuttgart
+Dispatched: P72 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 89]
+Generated: P267 to Berlin (Priority 2)
+Generated: P268 to Hamburg (Priority 3)
+Sorted to BST: P267 → Berlin
+Sorted to BST: P268 → Hamburg
+Dispatched: P78 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 90]
+Generated: P269 to Cologne (Priority 1)
+Generated: P270 to Berlin (Priority 3)
+Generated: P271 to Stuttgart (Priority 3)
+Sorted to BST: P269 → Cologne
+Sorted to BST: P270 → Berlin
+Sorted to BST: P271 → Stuttgart
+Dispatched: P95 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 91]
+Generated: P272 to Munich (Priority 1)
+Generated: P273 to Hamburg (Priority 3)
+Generated: P274 to Hamburg (Priority 2)
+Sorted to BST: P272 → Munich
+Sorted to BST: P273 → Hamburg
+Sorted to BST: P274 → Hamburg
+Dispatched: P50 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 92]
+Generated: P275 to Hamburg (Priority 3)
+Generated: P276 to Cologne (Priority 1)
+Generated: P277 to Stuttgart (Priority 1)
+Generated: P278 to Hamburg (Priority 3)
+Sorted to BST: P275 → Hamburg
+Sorted to BST: P276 → Cologne
+Sorted to BST: P277 → Stuttgart
+Sorted to BST: P278 → Hamburg
+Dispatched: P55 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 93]
+Generated: P279 to Munich (Priority 2)
+Generated: P280 to Munich (Priority 1)
+Generated: P281 to Stuttgart (Priority 1)
+Generated: P282 to Berlin (Priority 1)
+Sorted to BST: P279 → Munich
+Sorted to BST: P280 → Munich
+Sorted to BST: P281 → Stuttgart
+Sorted to BST: P282 → Berlin
+Dispatched: P4 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 94]
+Generated: P283 to Berlin (Priority 2)
+Generated: P284 to Munich (Priority 1)
+Generated: P285 to Stuttgart (Priority 1)
+Generated: P286 to Munich (Priority 2)
+Sorted to BST: P283 → Berlin
+Sorted to BST: P284 → Munich
+Sorted to BST: P285 → Stuttgart
+Sorted to BST: P286 → Munich
+Dispatched: P64 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 95]
+Generated: P287 to Berlin (Priority 3)
+Generated: P288 to Stuttgart (Priority 2)
+Generated: P289 to Stuttgart (Priority 1)
+Generated: P290 to Stuttgart (Priority 3)
+Sorted to BST: P287 → Berlin
+Sorted to BST: P288 → Stuttgart
+Sorted to BST: P289 → Stuttgart
+Sorted to BST: P290 → Stuttgart
+Dispatched: P23 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 96]
+Generated: P291 to Munich (Priority 2)
+Generated: P292 to Cologne (Priority 2)
+Generated: P293 to Hamburg (Priority 3)
+Sorted to BST: P291 → Munich
+Sorted to BST: P292 → Cologne
+Sorted to BST: P293 → Hamburg
+Dispatched: P83 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 97]
+Generated: P294 to Hamburg (Priority 3)
+Generated: P295 to Munich (Priority 1)
+Generated: P296 to Cologne (Priority 2)
+Generated: P297 to Munich (Priority 3)
+Sorted to BST: P294 → Hamburg
+Sorted to BST: P295 → Munich
+Sorted to BST: P296 → Cologne
+Sorted to BST: P297 → Munich
+Dispatched: P84 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 98]
+Generated: P298 to Munich (Priority 3)
+Generated: P299 to Stuttgart (Priority 2)
+Sorted to BST: P298 → Munich
+Sorted to BST: P299 → Stuttgart
+Dispatched: P85 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 99]
+Generated: P300 to Stuttgart (Priority 2)
+Generated: P301 to Hamburg (Priority 1)
+Generated: P302 to Hamburg (Priority 2)
+Generated: P303 to Cologne (Priority 1)
+Sorted to BST: P300 → Stuttgart
+Sorted to BST: P301 → Hamburg
+Sorted to BST: P302 → Hamburg
+Sorted to BST: P303 → Cologne
+>>> RETURNED (misrouted): P88
+>>> REPROCESSED from ReturnStack: P88
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 100]
+Generated: P304 to Hamburg (Priority 3)
+Generated: P305 to Hamburg (Priority 2)
+Generated: P306 to Munich (Priority 1)
+Sorted to BST: P304 → Hamburg
+Sorted to BST: P305 → Hamburg
+Sorted to BST: P306 → Munich
+>>> RETURNED (misrouted): P89
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 101]
+Generated: P307 to Hamburg (Priority 3)
+Generated: P308 to Hamburg (Priority 3)
+Sorted to BST: P307 → Hamburg
+Sorted to BST: P308 → Hamburg
+Dispatched: P111 to Berlin
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 102]
+Generated: P309 to Munich (Priority 2)
+Generated: P310 to Hamburg (Priority 1)
+Generated: P311 to Munich (Priority 3)
+Sorted to BST: P309 → Munich
+Sorted to BST: P310 → Hamburg
+Sorted to BST: P311 → Munich
+Dispatched: P115 to Berlin
+>>> REPROCESSED from ReturnStack: P89
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 103]
+Generated: P312 to Hamburg (Priority 3)
+Generated: P313 to Stuttgart (Priority 2)
+Sorted to BST: P312 → Hamburg
+Sorted to BST: P313 → Stuttgart
+Dispatched: P133 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 104]
+Generated: P314 to Stuttgart (Priority 3)
+Generated: P315 to Hamburg (Priority 1)
+Sorted to BST: P314 → Stuttgart
+Sorted to BST: P315 → Hamburg
+Dispatched: P139 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 105]
+Generated: P316 to Berlin (Priority 2)
+Generated: P317 to Stuttgart (Priority 2)
+Generated: P318 to Berlin (Priority 1)
+Generated: P319 to Stuttgart (Priority 1)
+Sorted to BST: P316 → Berlin
+Sorted to BST: P317 → Stuttgart
+Sorted to BST: P318 → Berlin
+Sorted to BST: P319 → Stuttgart
+>>> RETURNED (misrouted): P140
+>>> REPROCESSED from ReturnStack: P140
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 106]
+Generated: P320 to Cologne (Priority 1)
+Generated: P321 to Cologne (Priority 3)
+Generated: P322 to Munich (Priority 2)
+Sorted to BST: P320 → Cologne
+Sorted to BST: P321 → Cologne
+Sorted to BST: P322 → Munich
+Dispatched: P101 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 107]
+Generated: P323 to Stuttgart (Priority 2)
+Generated: P324 to Munich (Priority 1)
+Sorted to BST: P323 → Stuttgart
+Sorted to BST: P324 → Munich
+Dispatched: P29 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 108]
+Generated: P325 to Stuttgart (Priority 3)
+Generated: P326 to Cologne (Priority 2)
+Sorted to BST: P325 → Stuttgart
+Sorted to BST: P326 → Cologne
+Dispatched: P44 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 109]
+Generated: P327 to Hamburg (Priority 1)
+Generated: P328 to Stuttgart (Priority 3)
+Sorted to BST: P327 → Hamburg
+Sorted to BST: P328 → Stuttgart
+>>> RETURNED (misrouted): P113
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 110]
+Generated: P329 to Hamburg (Priority 2)
+Generated: P330 to Berlin (Priority 2)
+Generated: P331 to Cologne (Priority 2)
+Sorted to BST: P329 → Hamburg
+Sorted to BST: P330 → Berlin
+Sorted to BST: P331 → Cologne
+Dispatched: P116 to Hamburg
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 111]
+Generated: P332 to Berlin (Priority 3)
+Generated: P333 to Berlin (Priority 2)
+Generated: P334 to Munich (Priority 3)
+Generated: P335 to Munich (Priority 3)
+Sorted to BST: P332 → Berlin
+Sorted to BST: P333 → Berlin
+Sorted to BST: P334 → Munich
+Sorted to BST: P335 → Munich
+Dispatched: P102 to Munich
+>>> REPROCESSED from ReturnStack: P113
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 112]
+Generated: P336 to Stuttgart (Priority 1)
+Generated: P337 to Cologne (Priority 3)
+Sorted to BST: P336 → Stuttgart
+Sorted to BST: P337 → Cologne
+>>> RETURNED (misrouted): P103
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 113]
+Generated: P338 to Stuttgart (Priority 1)
+Generated: P339 to Hamburg (Priority 1)
+Generated: P340 to Stuttgart (Priority 2)
+Sorted to BST: P338 → Stuttgart
+Sorted to BST: P339 → Hamburg
+Sorted to BST: P340 → Stuttgart
+Dispatched: P107 to Munich
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 114]
+Generated: P341 to Stuttgart (Priority 1)
+Generated: P342 to Cologne (Priority 2)
+Generated: P343 to Stuttgart (Priority 3)
+Generated: P344 to Cologne (Priority 2)
+Sorted to BST: P341 → Stuttgart
+Sorted to BST: P342 → Cologne
+Sorted to BST: P343 → Stuttgart
+Sorted to BST: P344 → Cologne
+>>> RETURNED (misrouted): P114
+>>> REPROCESSED from ReturnStack: P114
+>>> REPROCESSED from ReturnStack: P103
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 115]
+Generated: P345 to Munich (Priority 2)
+Generated: P346 to Hamburg (Priority 2)
+Generated: P347 to Cologne (Priority 3)
+Sorted to BST: P345 → Munich
+Sorted to BST: P346 → Hamburg
+Sorted to BST: P347 → Cologne
+Dispatched: P119 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 116]
+Generated: P348 to Cologne (Priority 3)
+Generated: P349 to Cologne (Priority 1)
+Generated: P350 to Cologne (Priority 1)
+Sorted to BST: P348 → Cologne
+Sorted to BST: P349 → Cologne
+Sorted to BST: P350 → Cologne
+Dispatched: P71 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 117]
+Generated: P351 to Berlin (Priority 2)
+Generated: P352 to Hamburg (Priority 1)
+Generated: P353 to Cologne (Priority 1)
+Generated: P354 to Cologne (Priority 3)
+Sorted to BST: P351 → Berlin
+Sorted to BST: P352 → Hamburg
+Sorted to BST: P353 → Cologne
+Sorted to BST: P354 → Cologne
+Dispatched: P74 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 118]
+Generated: P355 to Stuttgart (Priority 2)
+Generated: P356 to Berlin (Priority 2)
+Generated: P357 to Stuttgart (Priority 3)
+Sorted to BST: P355 → Stuttgart
+Sorted to BST: P356 → Berlin
+Sorted to BST: P357 → Stuttgart
+Dispatched: P76 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 119]
+Generated: P358 to Munich (Priority 3)
+Generated: P359 to Munich (Priority 2)
+Sorted to BST: P358 → Munich
+Sorted to BST: P359 → Munich
+Dispatched: P81 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 120]
+Generated: P360 to Hamburg (Priority 1)
+Generated: P361 to Cologne (Priority 2)
+Sorted to BST: P360 → Hamburg
+Sorted to BST: P361 → Cologne
+Dispatched: P86 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 121]
+Generated: P362 to Munich (Priority 3)
+Generated: P363 to Munich (Priority 2)
+Generated: P364 to Stuttgart (Priority 3)
+Generated: P365 to Munich (Priority 2)
+Sorted to BST: P362 → Munich
+Sorted to BST: P363 → Munich
+Sorted to BST: P364 → Stuttgart
+Sorted to BST: P365 → Munich
+Dispatched: P98 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 122]
+Generated: P366 to Berlin (Priority 3)
+Generated: P367 to Cologne (Priority 3)
+Sorted to BST: P366 → Berlin
+Sorted to BST: P367 → Cologne
+Dispatched: P105 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 123]
+Generated: P368 to Munich (Priority 2)
+Generated: P369 to Berlin (Priority 2)
+Sorted to BST: P368 → Munich
+Sorted to BST: P369 → Berlin
+Dispatched: P109 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 124]
+Generated: P370 to Stuttgart (Priority 3)
+Generated: P371 to Hamburg (Priority 3)
+Generated: P372 to Stuttgart (Priority 1)
+Generated: P373 to Stuttgart (Priority 3)
+Sorted to BST: P370 → Stuttgart
+Sorted to BST: P371 → Hamburg
+Sorted to BST: P372 → Stuttgart
+Sorted to BST: P373 → Stuttgart
+Dispatched: P117 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 125]
+Generated: P374 to Munich (Priority 3)
+Generated: P375 to Hamburg (Priority 2)
+Generated: P376 to Cologne (Priority 3)
+Sorted to BST: P374 → Munich
+Sorted to BST: P375 → Hamburg
+Sorted to BST: P376 → Cologne
+Dispatched: P125 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 126]
+Generated: P377 to Hamburg (Priority 3)
+Generated: P378 to Berlin (Priority 2)
+Generated: P379 to Munich (Priority 1)
+Sorted to BST: P377 → Hamburg
+Sorted to BST: P378 → Berlin
+Sorted to BST: P379 → Munich
+Dispatched: P143 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 127]
+Generated: P380 to Berlin (Priority 1)
+Generated: P381 to Cologne (Priority 3)
+Generated: P382 to Stuttgart (Priority 2)
+Generated: P383 to Cologne (Priority 1)
+Sorted to BST: P380 → Berlin
+Sorted to BST: P381 → Cologne
+Sorted to BST: P382 → Stuttgart
+Sorted to BST: P383 → Cologne
+Dispatched: P149 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 128]
+Generated: P384 to Cologne (Priority 2)
+Generated: P385 to Cologne (Priority 1)
+Generated: P386 to Hamburg (Priority 1)
+Sorted to BST: P384 → Cologne
+Sorted to BST: P385 → Cologne
+Sorted to BST: P386 → Hamburg
+Dispatched: P158 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 129]
+Generated: P387 to Cologne (Priority 1)
+Generated: P388 to Hamburg (Priority 3)
+Generated: P389 to Hamburg (Priority 1)
+Generated: P390 to Munich (Priority 2)
+Sorted to BST: P387 → Cologne
+Sorted to BST: P388 → Hamburg
+Sorted to BST: P389 → Hamburg
+Sorted to BST: P390 → Munich
+Dispatched: P79 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 130]
+Generated: P391 to Munich (Priority 1)
+Generated: P392 to Munich (Priority 1)
+Generated: P393 to Berlin (Priority 1)
+Generated: P394 to Stuttgart (Priority 3)
+Sorted to BST: P391 → Munich
+Sorted to BST: P392 → Munich
+Sorted to BST: P393 → Berlin
+Sorted to BST: P394 → Stuttgart
+Dispatched: P171 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 131]
+Generated: P395 to Cologne (Priority 2)
+Generated: P396 to Munich (Priority 1)
+Sorted to BST: P395 → Cologne
+Sorted to BST: P396 → Munich
+>>> RETURNED (misrouted): P120
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 132]
+Generated: P397 to Berlin (Priority 3)
+Generated: P398 to Cologne (Priority 2)
+Generated: P399 to Hamburg (Priority 2)
+Generated: P400 to Cologne (Priority 3)
+Sorted to BST: P397 → Berlin
+Sorted to BST: P398 → Cologne
+Sorted to BST: P399 → Hamburg
+Sorted to BST: P400 → Cologne
+Dispatched: P122 to Hamburg
+>>> REPROCESSED from ReturnStack: P120
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 133]
+Generated: P401 to Cologne (Priority 3)
+Generated: P402 to Hamburg (Priority 3)
+Sorted to BST: P401 → Cologne
+Sorted to BST: P402 → Hamburg
+Dispatched: P127 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 134]
+Generated: P403 to Munich (Priority 1)
+Generated: P404 to Berlin (Priority 2)
+Generated: P405 to Hamburg (Priority 1)
+Sorted to BST: P403 → Munich
+Sorted to BST: P404 → Berlin
+Sorted to BST: P405 → Hamburg
+>>> RETURNED (misrouted): P128
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 135]
+Generated: P406 to Berlin (Priority 3)
+Generated: P407 to Berlin (Priority 1)
+Generated: P408 to Berlin (Priority 2)
+Generated: P409 to Stuttgart (Priority 3)
+Sorted to BST: P406 → Berlin
+Sorted to BST: P407 → Berlin
+Sorted to BST: P408 → Berlin
+Sorted to BST: P409 → Stuttgart
+Dispatched: P129 to Hamburg
+>>> REPROCESSED from ReturnStack: P128
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 136]
+Generated: P410 to Munich (Priority 2)
+Generated: P411 to Munich (Priority 1)
+Sorted to BST: P410 → Munich
+Sorted to BST: P411 → Munich
+Dispatched: P121 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 137]
+Generated: P412 to Berlin (Priority 1)
+Generated: P413 to Berlin (Priority 2)
+Sorted to BST: P412 → Berlin
+Sorted to BST: P413 → Berlin
+Dispatched: P123 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 138]
+Generated: P414 to Hamburg (Priority 1)
+Generated: P415 to Cologne (Priority 3)
+Generated: P416 to Munich (Priority 3)
+Generated: P417 to Berlin (Priority 3)
+Sorted to BST: P414 → Hamburg
+Sorted to BST: P415 → Cologne
+Sorted to BST: P416 → Munich
+Sorted to BST: P417 → Berlin
+>>> RETURNED (misrouted): P49
+>>> REPROCESSED from ReturnStack: P49
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 139]
+Generated: P418 to Munich (Priority 2)
+Generated: P419 to Cologne (Priority 3)
+Generated: P420 to Stuttgart (Priority 1)
+Generated: P421 to Cologne (Priority 1)
+Sorted to BST: P418 → Munich
+Sorted to BST: P419 → Cologne
+Sorted to BST: P420 → Stuttgart
+Sorted to BST: P421 → Cologne
+Dispatched: P137 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 140]
+Generated: P422 to Stuttgart (Priority 3)
+Generated: P423 to Stuttgart (Priority 3)
+Sorted to BST: P422 → Stuttgart
+Sorted to BST: P423 → Stuttgart
+Dispatched: P144 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 141]
+Generated: P424 to Hamburg (Priority 3)
+Generated: P425 to Munich (Priority 1)
+Sorted to BST: P424 → Hamburg
+Sorted to BST: P425 → Munich
+Dispatched: P91 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 142]
+Generated: P426 to Hamburg (Priority 3)
+Generated: P427 to Munich (Priority 2)
+Sorted to BST: P426 → Hamburg
+Sorted to BST: P427 → Munich
+Dispatched: P100 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 143]
+Generated: P428 to Hamburg (Priority 2)
+Generated: P429 to Berlin (Priority 1)
+Generated: P430 to Stuttgart (Priority 2)
+Sorted to BST: P428 → Hamburg
+Sorted to BST: P429 → Berlin
+Sorted to BST: P430 → Stuttgart
+Dispatched: P106 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 144]
+Generated: P431 to Hamburg (Priority 3)
+Generated: P432 to Stuttgart (Priority 3)
+Generated: P433 to Stuttgart (Priority 3)
+Generated: P434 to Cologne (Priority 2)
+Sorted to BST: P431 → Hamburg
+Sorted to BST: P432 → Stuttgart
+Sorted to BST: P433 → Stuttgart
+Sorted to BST: P434 → Cologne
+Dispatched: P112 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 145]
+Generated: P435 to Munich (Priority 3)
+Generated: P436 to Stuttgart (Priority 1)
+Sorted to BST: P435 → Munich
+Sorted to BST: P436 → Stuttgart
+Dispatched: P118 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 146]
+Generated: P437 to Munich (Priority 1)
+Generated: P438 to Hamburg (Priority 2)
+Generated: P439 to Munich (Priority 2)
+Generated: P440 to Stuttgart (Priority 3)
+Sorted to BST: P437 → Munich
+Sorted to BST: P438 → Hamburg
+Sorted to BST: P439 → Munich
+Sorted to BST: P440 → Stuttgart
+Dispatched: P126 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 147]
+Generated: P441 to Berlin (Priority 2)
+Generated: P442 to Munich (Priority 3)
+Sorted to BST: P441 → Berlin
+Sorted to BST: P442 → Munich
+Dispatched: P130 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 148]
+Generated: P443 to Cologne (Priority 3)
+Generated: P444 to Hamburg (Priority 1)
+Generated: P445 to Cologne (Priority 1)
+Generated: P446 to Stuttgart (Priority 3)
+Sorted to BST: P443 → Cologne
+Sorted to BST: P444 → Hamburg
+Sorted to BST: P445 → Cologne
+Sorted to BST: P446 → Stuttgart
+Dispatched: P136 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 149]
+Generated: P447 to Berlin (Priority 2)
+Generated: P448 to Munich (Priority 2)
+Generated: P449 to Hamburg (Priority 1)
+Sorted to BST: P447 → Berlin
+Sorted to BST: P448 → Munich
+Sorted to BST: P449 → Hamburg
+Dispatched: P138 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 150]
+Generated: P450 to Berlin (Priority 1)
+Generated: P451 to Munich (Priority 1)
+Generated: P452 to Berlin (Priority 3)
+Generated: P453 to Stuttgart (Priority 2)
+Sorted to BST: P450 → Berlin
+Sorted to BST: P451 → Munich
+Sorted to BST: P452 → Berlin
+Sorted to BST: P453 → Stuttgart
+Dispatched: P141 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 151]
+Generated: P454 to Stuttgart (Priority 3)
+Generated: P455 to Munich (Priority 2)
+Sorted to BST: P454 → Stuttgart
+Sorted to BST: P455 → Munich
+Dispatched: P175 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 152]
+Generated: P456 to Munich (Priority 2)
+Generated: P457 to Hamburg (Priority 3)
+Generated: P458 to Berlin (Priority 2)
+Sorted to BST: P456 → Munich
+Sorted to BST: P457 → Hamburg
+Sorted to BST: P458 → Berlin
+Dispatched: P178 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 153]
+Generated: P459 to Berlin (Priority 2)
+Generated: P460 to Berlin (Priority 3)
+Generated: P461 to Stuttgart (Priority 2)
+Sorted to BST: P459 → Berlin
+Sorted to BST: P460 → Berlin
+Sorted to BST: P461 → Stuttgart
+Dispatched: P181 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 154]
+Generated: P462 to Munich (Priority 3)
+Generated: P463 to Berlin (Priority 3)
+Generated: P464 to Munich (Priority 1)
+Sorted to BST: P462 → Munich
+Sorted to BST: P463 → Berlin
+Sorted to BST: P464 → Munich
+Dispatched: P182 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 155]
+Generated: P465 to Hamburg (Priority 3)
+Generated: P466 to Berlin (Priority 3)
+Generated: P467 to Stuttgart (Priority 2)
+Generated: P468 to Munich (Priority 1)
+Sorted to BST: P465 → Hamburg
+Sorted to BST: P466 → Berlin
+Sorted to BST: P467 → Stuttgart
+Sorted to BST: P468 → Munich
+Dispatched: P186 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 156]
+Generated: P469 to Munich (Priority 2)
+Generated: P470 to Hamburg (Priority 1)
+Sorted to BST: P469 → Munich
+Sorted to BST: P470 → Hamburg
+Dispatched: P131 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 157]
+Generated: P471 to Berlin (Priority 3)
+Generated: P472 to Stuttgart (Priority 2)
+Sorted to BST: P471 → Berlin
+Sorted to BST: P472 → Stuttgart
+Dispatched: P135 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 158]
+Generated: P473 to Berlin (Priority 1)
+Generated: P474 to Cologne (Priority 2)
+Generated: P475 to Cologne (Priority 1)
+Generated: P476 to Stuttgart (Priority 1)
+Sorted to BST: P473 → Berlin
+Sorted to BST: P474 → Cologne
+Sorted to BST: P475 → Cologne
+Sorted to BST: P476 → Stuttgart
+>>> RETURNED (misrouted): P147
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 159]
+Generated: P477 to Berlin (Priority 2)
+Generated: P478 to Cologne (Priority 3)
+Generated: P479 to Hamburg (Priority 3)
+Sorted to BST: P477 → Berlin
+Sorted to BST: P478 → Cologne
+Sorted to BST: P479 → Hamburg
+Dispatched: P151 to Hamburg
+>>> REPROCESSED from ReturnStack: P147
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 160]
+Generated: P480 to Munich (Priority 2)
+Generated: P481 to Munich (Priority 1)
+Generated: P482 to Berlin (Priority 2)
+Sorted to BST: P480 → Munich
+Sorted to BST: P481 → Munich
+Sorted to BST: P482 → Berlin
+Dispatched: P160 to Hamburg
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 161]
+Generated: P483 to Berlin (Priority 3)
+Generated: P484 to Munich (Priority 1)
+Generated: P485 to Cologne (Priority 3)
+Generated: P486 to Stuttgart (Priority 2)
+Sorted to BST: P483 → Berlin
+Sorted to BST: P484 → Munich
+Sorted to BST: P485 → Cologne
+Sorted to BST: P486 → Stuttgart
+Dispatched: P146 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 162]
+Generated: P487 to Stuttgart (Priority 1)
+Generated: P488 to Hamburg (Priority 2)
+Sorted to BST: P487 → Stuttgart
+Sorted to BST: P488 → Hamburg
+Dispatched: P153 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 163]
+Generated: P489 to Munich (Priority 2)
+Generated: P490 to Cologne (Priority 2)
+Generated: P491 to Berlin (Priority 2)
+Sorted to BST: P489 → Munich
+Sorted to BST: P490 → Cologne
+Sorted to BST: P491 → Berlin
+Dispatched: P159 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 164]
+Generated: P492 to Munich (Priority 1)
+Generated: P493 to Cologne (Priority 3)
+Generated: P494 to Berlin (Priority 2)
+Sorted to BST: P492 → Munich
+Sorted to BST: P493 → Cologne
+Sorted to BST: P494 → Berlin
+Dispatched: P162 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 165]
+Generated: P495 to Cologne (Priority 3)
+Generated: P496 to Hamburg (Priority 3)
+Generated: P497 to Munich (Priority 2)
+Sorted to BST: P495 → Cologne
+Sorted to BST: P496 → Hamburg
+Sorted to BST: P497 → Munich
+Dispatched: P168 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 166]
+Generated: P498 to Stuttgart (Priority 2)
+Generated: P499 to Munich (Priority 1)
+Generated: P500 to Stuttgart (Priority 1)
+Sorted to BST: P498 → Stuttgart
+Sorted to BST: P499 → Munich
+Sorted to BST: P500 → Stuttgart
+>>> RETURNED (misrouted): P124
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 167]
+Generated: P501 to Cologne (Priority 2)
+Generated: P502 to Stuttgart (Priority 2)
+Sorted to BST: P501 → Cologne
+Sorted to BST: P502 → Stuttgart
+Dispatched: P27 to Cologne
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 168]
+Generated: P503 to Munich (Priority 1)
+Generated: P504 to Cologne (Priority 3)
+Sorted to BST: P503 → Munich
+Sorted to BST: P504 → Cologne
+>>> RETURNED (misrouted): P132
+>>> REPROCESSED from ReturnStack: P132
+>>> REPROCESSED from ReturnStack: P124
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 169]
+Generated: P505 to Stuttgart (Priority 2)
+Generated: P506 to Berlin (Priority 1)
+Sorted to BST: P505 → Stuttgart
+Sorted to BST: P506 → Berlin
+Dispatched: P134 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 170]
+Generated: P507 to Munich (Priority 1)
+Generated: P508 to Cologne (Priority 3)
+Sorted to BST: P507 → Munich
+Sorted to BST: P508 → Cologne
+Dispatched: P36 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 171]
+Generated: P509 to Cologne (Priority 2)
+Generated: P510 to Munich (Priority 3)
+Generated: P511 to Berlin (Priority 3)
+Sorted to BST: P509 → Cologne
+Sorted to BST: P510 → Munich
+Sorted to BST: P511 → Berlin
+>>> RETURNED (misrouted): P145
+>>> REPROCESSED from ReturnStack: P145
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 172]
+Generated: P512 to Berlin (Priority 2)
+Generated: P513 to Hamburg (Priority 3)
+Generated: P514 to Berlin (Priority 2)
+Generated: P515 to Hamburg (Priority 2)
+Sorted to BST: P512 → Berlin
+Sorted to BST: P513 → Hamburg
+Sorted to BST: P514 → Berlin
+Sorted to BST: P515 → Hamburg
+Dispatched: P148 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 173]
+Generated: P516 to Cologne (Priority 2)
+Generated: P517 to Berlin (Priority 2)
+Generated: P518 to Hamburg (Priority 3)
+Generated: P519 to Cologne (Priority 1)
+Sorted to BST: P516 → Cologne
+Sorted to BST: P517 → Berlin
+Sorted to BST: P518 → Hamburg
+Sorted to BST: P519 → Cologne
+Dispatched: P150 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 174]
+Generated: P520 to Hamburg (Priority 1)
+Generated: P521 to Munich (Priority 1)
+Sorted to BST: P520 → Hamburg
+Sorted to BST: P521 → Munich
+Dispatched: P155 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 175]
+Generated: P522 to Hamburg (Priority 1)
+Generated: P523 to Cologne (Priority 2)
+Generated: P524 to Hamburg (Priority 2)
+Generated: P525 to Stuttgart (Priority 1)
+Sorted to BST: P522 → Hamburg
+Sorted to BST: P523 → Cologne
+Sorted to BST: P524 → Hamburg
+Sorted to BST: P525 → Stuttgart
+Dispatched: P161 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 176]
+Generated: P526 to Hamburg (Priority 3)
+Generated: P527 to Munich (Priority 2)
+Sorted to BST: P526 → Hamburg
+Sorted to BST: P527 → Munich
+Dispatched: P197 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 177]
+Generated: P528 to Berlin (Priority 2)
+Generated: P529 to Berlin (Priority 1)
+Generated: P530 to Munich (Priority 2)
+Generated: P531 to Hamburg (Priority 2)
+Sorted to BST: P528 → Berlin
+Sorted to BST: P529 → Berlin
+Sorted to BST: P530 → Munich
+Sorted to BST: P531 → Hamburg
+Dispatched: P203 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 178]
+Generated: P532 to Hamburg (Priority 1)
+Generated: P533 to Berlin (Priority 2)
+Generated: P534 to Stuttgart (Priority 2)
+Generated: P535 to Hamburg (Priority 3)
+Sorted to BST: P532 → Hamburg
+Sorted to BST: P533 → Berlin
+Sorted to BST: P534 → Stuttgart
+Sorted to BST: P535 → Hamburg
+Dispatched: P204 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 179]
+Generated: P536 to Cologne (Priority 2)
+Generated: P537 to Cologne (Priority 2)
+Generated: P538 to Munich (Priority 3)
+Sorted to BST: P536 → Cologne
+Sorted to BST: P537 → Cologne
+Sorted to BST: P538 → Munich
+Dispatched: P207 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 180]
+Generated: P539 to Berlin (Priority 3)
+Generated: P540 to Hamburg (Priority 2)
+Generated: P541 to Munich (Priority 2)
+Generated: P542 to Cologne (Priority 3)
+Sorted to BST: P539 → Berlin
+Sorted to BST: P540 → Hamburg
+Sorted to BST: P541 → Munich
+Sorted to BST: P542 → Cologne
+>>> RETURNED (misrouted): P211
+>>> REPROCESSED from ReturnStack: P211
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 181]
+Generated: P543 to Berlin (Priority 1)
+Generated: P544 to Cologne (Priority 1)
+Generated: P545 to Stuttgart (Priority 3)
+Sorted to BST: P543 → Berlin
+Sorted to BST: P544 → Cologne
+Sorted to BST: P545 → Stuttgart
+Dispatched: P163 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 182]
+Generated: P546 to Munich (Priority 2)
+Generated: P547 to Munich (Priority 2)
+Generated: P548 to Stuttgart (Priority 3)
+Sorted to BST: P546 → Munich
+Sorted to BST: P547 → Munich
+Sorted to BST: P548 → Stuttgart
+Dispatched: P164 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 183]
+Generated: P549 to Stuttgart (Priority 2)
+Generated: P550 to Stuttgart (Priority 3)
+Generated: P551 to Berlin (Priority 3)
+Generated: P552 to Hamburg (Priority 2)
+Sorted to BST: P549 → Stuttgart
+Sorted to BST: P550 → Stuttgart
+Sorted to BST: P551 → Berlin
+Sorted to BST: P552 → Hamburg
+Dispatched: P165 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 184]
+Generated: P553 to Cologne (Priority 1)
+Generated: P554 to Munich (Priority 2)
+Generated: P555 to Stuttgart (Priority 3)
+Sorted to BST: P553 → Cologne
+Sorted to BST: P554 → Munich
+Sorted to BST: P555 → Stuttgart
+>>> RETURNED (misrouted): P170
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 185]
+Generated: P556 to Hamburg (Priority 1)
+Generated: P557 to Hamburg (Priority 1)
+Sorted to BST: P556 → Hamburg
+Sorted to BST: P557 → Hamburg
+>>> RETURNED (misrouted): P172
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 2
+
+[Tick 186]
+Generated: P558 to Munich (Priority 3)
+Generated: P559 to Munich (Priority 2)
+Generated: P560 to Berlin (Priority 3)
+Sorted to BST: P558 → Munich
+Sorted to BST: P559 → Munich
+Sorted to BST: P560 → Berlin
+Dispatched: P174 to Munich
+>>> REPROCESSED from ReturnStack: P172
+>>> REPROCESSED from ReturnStack: P170
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 187]
+Generated: P561 to Cologne (Priority 3)
+Generated: P562 to Berlin (Priority 2)
+Generated: P563 to Berlin (Priority 3)
+Sorted to BST: P561 → Cologne
+Sorted to BST: P562 → Berlin
+Sorted to BST: P563 → Berlin
+Dispatched: P176 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 188]
+Generated: P564 to Hamburg (Priority 2)
+Generated: P565 to Stuttgart (Priority 1)
+Sorted to BST: P564 → Hamburg
+Sorted to BST: P565 → Stuttgart
+Dispatched: P177 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 189]
+Generated: P566 to Cologne (Priority 3)
+Generated: P567 to Berlin (Priority 2)
+Sorted to BST: P566 → Cologne
+Sorted to BST: P567 → Berlin
+Dispatched: P189 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 190]
+Generated: P568 to Berlin (Priority 1)
+Generated: P569 to Berlin (Priority 2)
+Sorted to BST: P568 → Berlin
+Sorted to BST: P569 → Berlin
+>>> RETURNED (misrouted): P53
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 191]
+Generated: P570 to Munich (Priority 2)
+Generated: P571 to Munich (Priority 2)
+Generated: P572 to Berlin (Priority 3)
+Sorted to BST: P570 → Munich
+Sorted to BST: P571 → Munich
+Sorted to BST: P572 → Berlin
+Dispatched: P142 to Cologne
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 192]
+Generated: P573 to Hamburg (Priority 3)
+Generated: P574 to Cologne (Priority 2)
+Sorted to BST: P573 → Hamburg
+Sorted to BST: P574 → Cologne
+>>> RETURNED (misrouted): P152
+>>> REPROCESSED from ReturnStack: P152
+>>> REPROCESSED from ReturnStack: P53
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 193]
+Generated: P575 to Berlin (Priority 1)
+Generated: P576 to Cologne (Priority 1)
+Generated: P577 to Cologne (Priority 2)
+Generated: P578 to Berlin (Priority 1)
+Sorted to BST: P575 → Berlin
+Sorted to BST: P576 → Cologne
+Sorted to BST: P577 → Cologne
+Sorted to BST: P578 → Berlin
+Dispatched: P154 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 194]
+Generated: P579 to Munich (Priority 1)
+Generated: P580 to Hamburg (Priority 1)
+Generated: P581 to Cologne (Priority 3)
+Generated: P582 to Cologne (Priority 1)
+Sorted to BST: P579 → Munich
+Sorted to BST: P580 → Hamburg
+Sorted to BST: P581 → Cologne
+Sorted to BST: P582 → Cologne
+Dispatched: P156 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 195]
+Generated: P583 to Cologne (Priority 1)
+Generated: P584 to Munich (Priority 3)
+Generated: P585 to Stuttgart (Priority 1)
+Generated: P586 to Hamburg (Priority 1)
+Sorted to BST: P583 → Cologne
+Sorted to BST: P584 → Munich
+Sorted to BST: P585 → Stuttgart
+Sorted to BST: P586 → Hamburg
+Dispatched: P157 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 196]
+Generated: P587 to Cologne (Priority 2)
+Generated: P588 to Munich (Priority 1)
+Generated: P589 to Cologne (Priority 3)
+Generated: P590 to Cologne (Priority 2)
+Sorted to BST: P587 → Cologne
+Sorted to BST: P588 → Munich
+Sorted to BST: P589 → Cologne
+Sorted to BST: P590 → Cologne
+Dispatched: P167 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 197]
+Generated: P591 to Stuttgart (Priority 2)
+Generated: P592 to Hamburg (Priority 2)
+Sorted to BST: P591 → Stuttgart
+Sorted to BST: P592 → Hamburg
+>>> RETURNED (misrouted): P184
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 198]
+Generated: P593 to Berlin (Priority 2)
+Generated: P594 to Cologne (Priority 3)
+Generated: P595 to Berlin (Priority 1)
+Generated: P596 to Hamburg (Priority 2)
+Sorted to BST: P593 → Berlin
+Sorted to BST: P594 → Cologne
+Sorted to BST: P595 → Berlin
+Sorted to BST: P596 → Hamburg
+Dispatched: P190 to Stuttgart
+>>> REPROCESSED from ReturnStack: P184
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 199]
+Generated: P597 to Stuttgart (Priority 1)
+Generated: P598 to Munich (Priority 1)
+Generated: P599 to Stuttgart (Priority 3)
+Sorted to BST: P597 → Stuttgart
+Sorted to BST: P598 → Munich
+Sorted to BST: P599 → Stuttgart
+>>> RETURNED (misrouted): P192
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 200]
+Generated: P600 to Berlin (Priority 1)
+Generated: P601 to Stuttgart (Priority 2)
+Sorted to BST: P600 → Berlin
+Sorted to BST: P601 → Stuttgart
+Dispatched: P196 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 201]
+Generated: P602 to Stuttgart (Priority 1)
+Generated: P603 to Berlin (Priority 3)
+Generated: P604 to Cologne (Priority 1)
+Sorted to BST: P602 → Stuttgart
+Sorted to BST: P603 → Berlin
+Sorted to BST: P604 → Cologne
+>>> RETURNED (misrouted): P219
+>>> REPROCESSED from ReturnStack: P219
+>>> REPROCESSED from ReturnStack: P192
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 202]
+Generated: P605 to Berlin (Priority 2)
+Generated: P606 to Hamburg (Priority 2)
+Sorted to BST: P605 → Berlin
+Sorted to BST: P606 → Hamburg
+>>> RETURNED (misrouted): P231
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 203]
+Generated: P607 to Munich (Priority 2)
+Generated: P608 to Munich (Priority 1)
+Generated: P609 to Berlin (Priority 1)
+Sorted to BST: P607 → Munich
+Sorted to BST: P608 → Munich
+Sorted to BST: P609 → Berlin
+Dispatched: P235 to Berlin
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 204]
+Generated: P610 to Munich (Priority 1)
+Generated: P611 to Cologne (Priority 3)
+Sorted to BST: P610 → Munich
+Sorted to BST: P611 → Cologne
+Dispatched: P237 to Berlin
+>>> REPROCESSED from ReturnStack: P231
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 205]
+Generated: P612 to Cologne (Priority 2)
+Generated: P613 to Munich (Priority 1)
+Generated: P614 to Munich (Priority 1)
+Generated: P615 to Berlin (Priority 3)
+Sorted to BST: P612 → Cologne
+Sorted to BST: P613 → Munich
+Sorted to BST: P614 → Munich
+Sorted to BST: P615 → Berlin
+>>> RETURNED (misrouted): P108
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 206]
+Generated: P616 to Stuttgart (Priority 1)
+Generated: P617 to Munich (Priority 3)
+Generated: P618 to Berlin (Priority 1)
+Generated: P619 to Stuttgart (Priority 2)
+Sorted to BST: P616 → Stuttgart
+Sorted to BST: P617 → Munich
+Sorted to BST: P618 → Berlin
+Sorted to BST: P619 → Stuttgart
+Dispatched: P179 to Hamburg
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 207]
+Generated: P620 to Stuttgart (Priority 1)
+Generated: P621 to Hamburg (Priority 2)
+Generated: P622 to Hamburg (Priority 2)
+Generated: P623 to Munich (Priority 3)
+Sorted to BST: P620 → Stuttgart
+Sorted to BST: P621 → Hamburg
+Sorted to BST: P622 → Hamburg
+Sorted to BST: P623 → Munich
+Dispatched: P61 to Hamburg
+>>> REPROCESSED from ReturnStack: P108
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 208]
+Generated: P624 to Hamburg (Priority 1)
+Generated: P625 to Berlin (Priority 3)
+Generated: P626 to Stuttgart (Priority 1)
+Sorted to BST: P624 → Hamburg
+Sorted to BST: P625 → Berlin
+Sorted to BST: P626 → Stuttgart
+Dispatched: P183 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 209]
+Generated: P627 to Hamburg (Priority 3)
+Generated: P628 to Cologne (Priority 3)
+Generated: P629 to Berlin (Priority 1)
+Generated: P630 to Munich (Priority 3)
+Sorted to BST: P627 → Hamburg
+Sorted to BST: P628 → Cologne
+Sorted to BST: P629 → Berlin
+Sorted to BST: P630 → Munich
+Dispatched: P185 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 210]
+Generated: P631 to Berlin (Priority 2)
+Generated: P632 to Stuttgart (Priority 2)
+Generated: P633 to Hamburg (Priority 2)
+Sorted to BST: P631 → Berlin
+Sorted to BST: P632 → Stuttgart
+Sorted to BST: P633 → Hamburg
+Dispatched: P187 to Hamburg
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 211]
+Generated: P634 to Cologne (Priority 2)
+Generated: P635 to Stuttgart (Priority 3)
+Generated: P636 to Munich (Priority 2)
+Generated: P637 to Berlin (Priority 3)
+Sorted to BST: P634 → Cologne
+Sorted to BST: P635 → Stuttgart
+Sorted to BST: P636 → Munich
+Sorted to BST: P637 → Berlin
+>>> RETURNED (misrouted): P194
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 212]
+Generated: P638 to Munich (Priority 1)
+Generated: P639 to Munich (Priority 1)
+Sorted to BST: P638 → Munich
+Sorted to BST: P639 → Munich
+Dispatched: P200 to Munich
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 213]
+Generated: P640 to Stuttgart (Priority 2)
+Generated: P641 to Hamburg (Priority 2)
+Sorted to BST: P640 → Stuttgart
+Sorted to BST: P641 → Hamburg
+Dispatched: P201 to Munich
+>>> REPROCESSED from ReturnStack: P194
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 214]
+Generated: P642 to Hamburg (Priority 3)
+Generated: P643 to Cologne (Priority 2)
+Generated: P644 to Berlin (Priority 1)
+Sorted to BST: P642 → Hamburg
+Sorted to BST: P643 → Cologne
+Sorted to BST: P644 → Berlin
+Dispatched: P205 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 215]
+Generated: P645 to Hamburg (Priority 3)
+Generated: P646 to Berlin (Priority 3)
+Generated: P647 to Stuttgart (Priority 1)
+Sorted to BST: P645 → Hamburg
+Sorted to BST: P646 → Berlin
+Sorted to BST: P647 → Stuttgart
+Dispatched: P218 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 216]
+Generated: P648 to Munich (Priority 3)
+Generated: P649 to Munich (Priority 1)
+Generated: P650 to Hamburg (Priority 3)
+Generated: P651 to Munich (Priority 1)
+Sorted to BST: P648 → Munich
+Sorted to BST: P649 → Munich
+Sorted to BST: P650 → Hamburg
+Sorted to BST: P651 → Munich
+>>> RETURNED (misrouted): P166
+>>> REPROCESSED from ReturnStack: P166
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 217]
+Generated: P652 to Munich (Priority 2)
+Generated: P653 to Hamburg (Priority 2)
+Generated: P654 to Munich (Priority 2)
+Sorted to BST: P652 → Munich
+Sorted to BST: P653 → Hamburg
+Sorted to BST: P654 → Munich
+>>> RETURNED (misrouted): P169
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 218]
+Generated: P655 to Hamburg (Priority 3)
+Generated: P656 to Stuttgart (Priority 1)
+Generated: P657 to Munich (Priority 1)
+Generated: P658 to Cologne (Priority 1)
+Sorted to BST: P655 → Hamburg
+Sorted to BST: P656 → Stuttgart
+Sorted to BST: P657 → Munich
+Sorted to BST: P658 → Cologne
+>>> RETURNED (misrouted): P173
+Queue size: 0
+ReturnStack size: 2
+
+[Tick 219]
+Generated: P659 to Stuttgart (Priority 1)
+Generated: P660 to Cologne (Priority 3)
+Sorted to BST: P659 → Stuttgart
+Sorted to BST: P660 → Cologne
+Dispatched: P180 to Cologne
+>>> REPROCESSED from ReturnStack: P173
+>>> REPROCESSED from ReturnStack: P169
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 220]
+Generated: P661 to Stuttgart (Priority 3)
+Generated: P662 to Munich (Priority 3)
+Generated: P663 to Cologne (Priority 2)
+Generated: P664 to Hamburg (Priority 3)
+Sorted to BST: P661 → Stuttgart
+Sorted to BST: P662 → Munich
+Sorted to BST: P663 → Cologne
+Sorted to BST: P664 → Hamburg
+>>> RETURNED (misrouted): P188
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 221]
+Generated: P665 to Cologne (Priority 1)
+Generated: P666 to Berlin (Priority 2)
+Generated: P667 to Berlin (Priority 2)
+Generated: P668 to Hamburg (Priority 3)
+Sorted to BST: P665 → Cologne
+Sorted to BST: P666 → Berlin
+Sorted to BST: P667 → Berlin
+Sorted to BST: P668 → Hamburg
+Dispatched: P198 to Stuttgart
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 222]
+Generated: P669 to Hamburg (Priority 2)
+Generated: P670 to Berlin (Priority 3)
+Sorted to BST: P669 → Hamburg
+Sorted to BST: P670 → Berlin
+>>> RETURNED (misrouted): P221
+>>> REPROCESSED from ReturnStack: P221
+>>> REPROCESSED from ReturnStack: P188
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 223]
+Generated: P671 to Munich (Priority 2)
+Generated: P672 to Stuttgart (Priority 1)
+Generated: P673 to Hamburg (Priority 1)
+Generated: P674 to Munich (Priority 1)
+Sorted to BST: P671 → Munich
+Sorted to BST: P672 → Stuttgart
+Sorted to BST: P673 → Hamburg
+Sorted to BST: P674 → Munich
+>>> RETURNED (misrouted): P223
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 224]
+Generated: P675 to Hamburg (Priority 1)
+Generated: P676 to Cologne (Priority 1)
+Generated: P677 to Stuttgart (Priority 3)
+Generated: P678 to Cologne (Priority 2)
+Sorted to BST: P675 → Hamburg
+Sorted to BST: P676 → Cologne
+Sorted to BST: P677 → Stuttgart
+Sorted to BST: P678 → Cologne
+Dispatched: P224 to Stuttgart
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 225]
+Generated: P679 to Cologne (Priority 2)
+Generated: P680 to Berlin (Priority 2)
+Generated: P681 to Stuttgart (Priority 1)
+Generated: P682 to Hamburg (Priority 2)
+Sorted to BST: P679 → Cologne
+Sorted to BST: P680 → Berlin
+Sorted to BST: P681 → Stuttgart
+Sorted to BST: P682 → Hamburg
+Dispatched: P226 to Stuttgart
+>>> REPROCESSED from ReturnStack: P223
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 226]
+Generated: P683 to Munich (Priority 2)
+Generated: P684 to Cologne (Priority 2)
+Generated: P685 to Stuttgart (Priority 1)
+Sorted to BST: P683 → Munich
+Sorted to BST: P684 → Cologne
+Sorted to BST: P685 → Stuttgart
+Dispatched: P246 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 227]
+Generated: P686 to Cologne (Priority 3)
+Generated: P687 to Berlin (Priority 3)
+Generated: P688 to Hamburg (Priority 2)
+Generated: P689 to Munich (Priority 2)
+Sorted to BST: P686 → Cologne
+Sorted to BST: P687 → Berlin
+Sorted to BST: P688 → Hamburg
+Sorted to BST: P689 → Munich
+Dispatched: P249 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 228]
+Generated: P690 to Munich (Priority 1)
+Generated: P691 to Hamburg (Priority 3)
+Generated: P692 to Munich (Priority 2)
+Sorted to BST: P690 → Munich
+Sorted to BST: P691 → Hamburg
+Sorted to BST: P692 → Munich
+Dispatched: P258 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 229]
+Generated: P693 to Berlin (Priority 2)
+Generated: P694 to Hamburg (Priority 3)
+Generated: P695 to Hamburg (Priority 2)
+Generated: P696 to Hamburg (Priority 1)
+Sorted to BST: P693 → Berlin
+Sorted to BST: P694 → Hamburg
+Sorted to BST: P695 → Hamburg
+Sorted to BST: P696 → Hamburg
+Dispatched: P267 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 230]
+Generated: P697 to Stuttgart (Priority 1)
+Generated: P698 to Stuttgart (Priority 3)
+Generated: P699 to Cologne (Priority 2)
+Generated: P700 to Berlin (Priority 3)
+Sorted to BST: P697 → Stuttgart
+Sorted to BST: P698 → Stuttgart
+Sorted to BST: P699 → Cologne
+Sorted to BST: P700 → Berlin
+Dispatched: P270 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 231]
+Generated: P701 to Munich (Priority 3)
+Generated: P702 to Cologne (Priority 3)
+Generated: P703 to Stuttgart (Priority 3)
+Generated: P704 to Munich (Priority 2)
+Sorted to BST: P701 → Munich
+Sorted to BST: P702 → Cologne
+Sorted to BST: P703 → Stuttgart
+Sorted to BST: P704 → Munich
+Dispatched: P206 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 232]
+Generated: P705 to Berlin (Priority 1)
+Generated: P706 to Hamburg (Priority 1)
+Generated: P707 to Munich (Priority 3)
+Sorted to BST: P705 → Berlin
+Sorted to BST: P706 → Hamburg
+Sorted to BST: P707 → Munich
+Dispatched: P213 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 233]
+Generated: P708 to Hamburg (Priority 3)
+Generated: P709 to Stuttgart (Priority 3)
+Sorted to BST: P708 → Hamburg
+Sorted to BST: P709 → Stuttgart
+Dispatched: P214 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 234]
+Generated: P710 to Munich (Priority 1)
+Generated: P711 to Munich (Priority 1)
+Generated: P712 to Munich (Priority 2)
+Sorted to BST: P710 → Munich
+Sorted to BST: P711 → Munich
+Sorted to BST: P712 → Munich
+Dispatched: P215 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 235]
+Generated: P713 to Stuttgart (Priority 3)
+Generated: P714 to Munich (Priority 3)
+Generated: P715 to Munich (Priority 1)
+Generated: P716 to Munich (Priority 2)
+Sorted to BST: P713 → Stuttgart
+Sorted to BST: P714 → Munich
+Sorted to BST: P715 → Munich
+Sorted to BST: P716 → Munich
+Dispatched: P228 to Hamburg
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 236]
+Generated: P717 to Stuttgart (Priority 1)
+Generated: P718 to Hamburg (Priority 3)
+Generated: P719 to Hamburg (Priority 1)
+Sorted to BST: P717 → Stuttgart
+Sorted to BST: P718 → Hamburg
+Sorted to BST: P719 → Hamburg
+Dispatched: P222 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 237]
+Generated: P720 to Cologne (Priority 2)
+Generated: P721 to Hamburg (Priority 2)
+Generated: P722 to Berlin (Priority 1)
+Generated: P723 to Stuttgart (Priority 3)
+Sorted to BST: P720 → Cologne
+Sorted to BST: P721 → Hamburg
+Sorted to BST: P722 → Berlin
+Sorted to BST: P723 → Stuttgart
+Dispatched: P225 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 238]
+Generated: P724 to Berlin (Priority 1)
+Generated: P725 to Cologne (Priority 1)
+Generated: P726 to Munich (Priority 2)
+Sorted to BST: P724 → Berlin
+Sorted to BST: P725 → Cologne
+Sorted to BST: P726 → Munich
+Dispatched: P227 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 239]
+Generated: P727 to Hamburg (Priority 1)
+Generated: P728 to Stuttgart (Priority 3)
+Sorted to BST: P727 → Hamburg
+Sorted to BST: P728 → Stuttgart
+Dispatched: P232 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 240]
+Generated: P729 to Stuttgart (Priority 2)
+Generated: P730 to Stuttgart (Priority 3)
+Generated: P731 to Cologne (Priority 2)
+Generated: P732 to Stuttgart (Priority 2)
+Sorted to BST: P729 → Stuttgart
+Sorted to BST: P730 → Stuttgart
+Sorted to BST: P731 → Cologne
+Sorted to BST: P732 → Stuttgart
+Dispatched: P240 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 241]
+Generated: P733 to Cologne (Priority 2)
+Generated: P734 to Munich (Priority 1)
+Sorted to BST: P733 → Cologne
+Sorted to BST: P734 → Munich
+>>> RETURNED (misrouted): P191
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 242]
+Generated: P735 to Munich (Priority 2)
+Generated: P736 to Cologne (Priority 1)
+Sorted to BST: P735 → Munich
+Sorted to BST: P736 → Cologne
+Dispatched: P193 to Cologne
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 243]
+Generated: P737 to Hamburg (Priority 3)
+Generated: P738 to Munich (Priority 1)
+Sorted to BST: P737 → Hamburg
+Sorted to BST: P738 → Munich
+Dispatched: P195 to Cologne
+>>> REPROCESSED from ReturnStack: P191
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 244]
+Generated: P739 to Cologne (Priority 3)
+Generated: P740 to Hamburg (Priority 2)
+Sorted to BST: P739 → Cologne
+Sorted to BST: P740 → Hamburg
+Dispatched: P199 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 245]
+Generated: P741 to Munich (Priority 3)
+Generated: P742 to Hamburg (Priority 3)
+Generated: P743 to Berlin (Priority 1)
+Generated: P744 to Stuttgart (Priority 2)
+Sorted to BST: P741 → Munich
+Sorted to BST: P742 → Hamburg
+Sorted to BST: P743 → Berlin
+Sorted to BST: P744 → Stuttgart
+Dispatched: P202 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 246]
+Generated: P745 to Cologne (Priority 3)
+Generated: P746 to Hamburg (Priority 2)
+Sorted to BST: P745 → Cologne
+Sorted to BST: P746 → Hamburg
+Dispatched: P229 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 247]
+Generated: P747 to Munich (Priority 1)
+Generated: P748 to Munich (Priority 3)
+Sorted to BST: P747 → Munich
+Sorted to BST: P748 → Munich
+Dispatched: P230 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 248]
+Generated: P749 to Cologne (Priority 3)
+Generated: P750 to Munich (Priority 1)
+Generated: P751 to Cologne (Priority 3)
+Sorted to BST: P749 → Cologne
+Sorted to BST: P750 → Munich
+Sorted to BST: P751 → Cologne
+Dispatched: P233 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 249]
+Generated: P752 to Cologne (Priority 1)
+Generated: P753 to Hamburg (Priority 1)
+Generated: P754 to Munich (Priority 2)
+Sorted to BST: P752 → Cologne
+Sorted to BST: P753 → Hamburg
+Sorted to BST: P754 → Munich
+Dispatched: P239 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 250]
+Generated: P755 to Hamburg (Priority 3)
+Generated: P756 to Cologne (Priority 3)
+Generated: P757 to Cologne (Priority 3)
+Sorted to BST: P755 → Hamburg
+Sorted to BST: P756 → Cologne
+Sorted to BST: P757 → Cologne
+Dispatched: P248 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 251]
+Generated: P758 to Stuttgart (Priority 1)
+Generated: P759 to Hamburg (Priority 2)
+Generated: P760 to Hamburg (Priority 2)
+Sorted to BST: P758 → Stuttgart
+Sorted to BST: P759 → Hamburg
+Sorted to BST: P760 → Hamburg
+Dispatched: P282 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 252]
+Generated: P761 to Hamburg (Priority 3)
+Generated: P762 to Stuttgart (Priority 3)
+Generated: P763 to Hamburg (Priority 1)
+Sorted to BST: P761 → Hamburg
+Sorted to BST: P762 → Stuttgart
+Sorted to BST: P763 → Hamburg
+Dispatched: P283 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 253]
+Generated: P764 to Hamburg (Priority 1)
+Generated: P765 to Stuttgart (Priority 3)
+Generated: P766 to Cologne (Priority 3)
+Sorted to BST: P764 → Hamburg
+Sorted to BST: P765 → Stuttgart
+Sorted to BST: P766 → Cologne
+Dispatched: P287 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 254]
+Generated: P767 to Munich (Priority 1)
+Generated: P768 to Stuttgart (Priority 3)
+Sorted to BST: P767 → Munich
+Sorted to BST: P768 → Stuttgart
+Dispatched: P316 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 255]
+Generated: P769 to Berlin (Priority 2)
+Generated: P770 to Berlin (Priority 3)
+Generated: P771 to Cologne (Priority 3)
+Generated: P772 to Hamburg (Priority 1)
+Sorted to BST: P769 → Berlin
+Sorted to BST: P770 → Berlin
+Sorted to BST: P771 → Cologne
+Sorted to BST: P772 → Hamburg
+Dispatched: P318 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 256]
+Generated: P773 to Hamburg (Priority 1)
+Generated: P774 to Stuttgart (Priority 3)
+Generated: P775 to Munich (Priority 1)
+Generated: P776 to Berlin (Priority 1)
+Sorted to BST: P773 → Hamburg
+Sorted to BST: P774 → Stuttgart
+Sorted to BST: P775 → Munich
+Sorted to BST: P776 → Berlin
+>>> RETURNED (misrouted): P236
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 257]
+Generated: P777 to Munich (Priority 2)
+Generated: P778 to Berlin (Priority 2)
+Generated: P779 to Munich (Priority 3)
+Sorted to BST: P777 → Munich
+Sorted to BST: P778 → Berlin
+Sorted to BST: P779 → Munich
+>>> RETURNED (misrouted): P243
+Queue size: 0
+ReturnStack size: 2
+
+[Tick 258]
+Generated: P780 to Munich (Priority 3)
+Generated: P781 to Berlin (Priority 1)
+Sorted to BST: P780 → Munich
+Sorted to BST: P781 → Berlin
+Dispatched: P244 to Hamburg
+>>> REPROCESSED from ReturnStack: P243
+>>> REPROCESSED from ReturnStack: P236
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 259]
+Generated: P782 to Munich (Priority 3)
+Generated: P783 to Berlin (Priority 1)
+Sorted to BST: P782 → Munich
+Sorted to BST: P783 → Berlin
+Dispatched: P247 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 260]
+Generated: P784 to Hamburg (Priority 2)
+Generated: P785 to Stuttgart (Priority 2)
+Sorted to BST: P784 → Hamburg
+Sorted to BST: P785 → Stuttgart
+>>> RETURNED (misrouted): P251
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 261]
+Generated: P786 to Stuttgart (Priority 3)
+Generated: P787 to Stuttgart (Priority 1)
+Sorted to BST: P786 → Stuttgart
+Sorted to BST: P787 → Stuttgart
+Dispatched: P241 to Munich
+>>> REPROCESSED from ReturnStack: P251
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 262]
+Generated: P788 to Stuttgart (Priority 2)
+Generated: P789 to Stuttgart (Priority 3)
+Generated: P790 to Munich (Priority 2)
+Sorted to BST: P788 → Stuttgart
+Sorted to BST: P789 → Stuttgart
+Sorted to BST: P790 → Munich
+Dispatched: P242 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 263]
+Generated: P791 to Hamburg (Priority 2)
+Generated: P792 to Stuttgart (Priority 1)
+Generated: P793 to Munich (Priority 1)
+Sorted to BST: P791 → Hamburg
+Sorted to BST: P792 → Stuttgart
+Sorted to BST: P793 → Munich
+Dispatched: P264 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 264]
+Generated: P794 to Hamburg (Priority 3)
+Generated: P795 to Stuttgart (Priority 3)
+Generated: P796 to Munich (Priority 1)
+Sorted to BST: P794 → Hamburg
+Sorted to BST: P795 → Stuttgart
+Sorted to BST: P796 → Munich
+Dispatched: P272 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 265]
+Generated: P797 to Hamburg (Priority 3)
+Generated: P798 to Cologne (Priority 1)
+Generated: P799 to Cologne (Priority 3)
+Sorted to BST: P797 → Hamburg
+Sorted to BST: P798 → Cologne
+Sorted to BST: P799 → Cologne
+Dispatched: P279 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 266]
+Generated: P800 to Berlin (Priority 2)
+Generated: P801 to Stuttgart (Priority 3)
+Generated: P802 to Stuttgart (Priority 3)
+Generated: P803 to Stuttgart (Priority 3)
+Sorted to BST: P800 → Berlin
+Sorted to BST: P801 → Stuttgart
+Sorted to BST: P802 → Stuttgart
+Sorted to BST: P803 → Stuttgart
+Dispatched: P208 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 267]
+Generated: P804 to Munich (Priority 2)
+Generated: P805 to Munich (Priority 2)
+Sorted to BST: P804 → Munich
+Sorted to BST: P805 → Munich
+>>> RETURNED (misrouted): P209
+>>> REPROCESSED from ReturnStack: P209
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 268]
+Generated: P806 to Stuttgart (Priority 3)
+Generated: P807 to Cologne (Priority 2)
+Sorted to BST: P806 → Stuttgart
+Sorted to BST: P807 → Cologne
+Dispatched: P210 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 269]
+Generated: P808 to Hamburg (Priority 1)
+Generated: P809 to Hamburg (Priority 1)
+Sorted to BST: P808 → Hamburg
+Sorted to BST: P809 → Hamburg
+Dispatched: P212 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 270]
+Generated: P810 to Hamburg (Priority 3)
+Generated: P811 to Stuttgart (Priority 1)
+Generated: P812 to Stuttgart (Priority 3)
+Generated: P813 to Munich (Priority 1)
+Sorted to BST: P810 → Hamburg
+Sorted to BST: P811 → Stuttgart
+Sorted to BST: P812 → Stuttgart
+Sorted to BST: P813 → Munich
+>>> RETURNED (misrouted): P216
+>>> REPROCESSED from ReturnStack: P216
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 271]
+Generated: P814 to Hamburg (Priority 3)
+Generated: P815 to Stuttgart (Priority 3)
+Sorted to BST: P814 → Hamburg
+Sorted to BST: P815 → Stuttgart
+Dispatched: P252 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 272]
+Generated: P816 to Stuttgart (Priority 2)
+Generated: P817 to Berlin (Priority 3)
+Generated: P818 to Berlin (Priority 3)
+Sorted to BST: P816 → Stuttgart
+Sorted to BST: P817 → Berlin
+Sorted to BST: P818 → Berlin
+Dispatched: P253 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 273]
+Generated: P819 to Munich (Priority 3)
+Generated: P820 to Cologne (Priority 2)
+Sorted to BST: P819 → Munich
+Sorted to BST: P820 → Cologne
+Dispatched: P256 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 274]
+Generated: P821 to Hamburg (Priority 2)
+Generated: P822 to Stuttgart (Priority 1)
+Generated: P823 to Berlin (Priority 1)
+Sorted to BST: P821 → Hamburg
+Sorted to BST: P822 → Stuttgart
+Sorted to BST: P823 → Berlin
+Dispatched: P257 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 275]
+Generated: P824 to Hamburg (Priority 2)
+Generated: P825 to Cologne (Priority 2)
+Sorted to BST: P824 → Hamburg
+Sorted to BST: P825 → Cologne
+Dispatched: P261 to Stuttgart
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 276]
+Generated: P826 to Berlin (Priority 3)
+Generated: P827 to Cologne (Priority 1)
+Generated: P828 to Cologne (Priority 3)
+Sorted to BST: P826 → Berlin
+Sorted to BST: P827 → Cologne
+Sorted to BST: P828 → Cologne
+Dispatched: P140 to Berlin
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 277]
+Generated: P829 to Berlin (Priority 2)
+Generated: P830 to Berlin (Priority 3)
+Sorted to BST: P829 → Berlin
+Sorted to BST: P830 → Berlin
+>>> RETURNED (misrouted): P330
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 278]
+Generated: P831 to Stuttgart (Priority 1)
+Generated: P832 to Berlin (Priority 2)
+Sorted to BST: P831 → Stuttgart
+Sorted to BST: P832 → Berlin
+Dispatched: P332 to Berlin
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 279]
+Generated: P833 to Cologne (Priority 1)
+Generated: P834 to Hamburg (Priority 2)
+Generated: P835 to Stuttgart (Priority 2)
+Generated: P836 to Cologne (Priority 2)
+Sorted to BST: P833 → Cologne
+Sorted to BST: P834 → Hamburg
+Sorted to BST: P835 → Stuttgart
+Sorted to BST: P836 → Cologne
+Dispatched: P333 to Berlin
+>>> REPROCESSED from ReturnStack: P330
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 280]
+Generated: P837 to Stuttgart (Priority 1)
+Generated: P838 to Munich (Priority 1)
+Generated: P839 to Berlin (Priority 1)
+Sorted to BST: P837 → Stuttgart
+Sorted to BST: P838 → Munich
+Sorted to BST: P839 → Berlin
+Dispatched: P351 to Berlin
+Rotated to terminal: Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 281]
+Generated: P840 to Berlin (Priority 1)
+Generated: P841 to Hamburg (Priority 1)
+Generated: P842 to Berlin (Priority 3)
+Generated: P843 to Hamburg (Priority 2)
+Sorted to BST: P840 → Berlin
+Sorted to BST: P841 → Hamburg
+Sorted to BST: P842 → Berlin
+Sorted to BST: P843 → Hamburg
+Dispatched: P254 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 282]
+Generated: P844 to Hamburg (Priority 1)
+Generated: P845 to Berlin (Priority 2)
+Generated: P846 to Berlin (Priority 2)
+Sorted to BST: P844 → Hamburg
+Sorted to BST: P845 → Berlin
+Sorted to BST: P846 → Berlin
+Dispatched: P255 to Hamburg
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 283]
+Generated: P847 to Hamburg (Priority 3)
+Generated: P848 to Hamburg (Priority 1)
+Generated: P849 to Berlin (Priority 1)
+Sorted to BST: P847 → Hamburg
+Sorted to BST: P848 → Hamburg
+Sorted to BST: P849 → Berlin
+>>> RETURNED (misrouted): P97
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 284]
+Generated: P850 to Hamburg (Priority 3)
+Generated: P851 to Hamburg (Priority 1)
+Sorted to BST: P850 → Hamburg
+Sorted to BST: P851 → Hamburg
+Dispatched: P259 to Hamburg
+Queue size: 0
+ReturnStack size: 1
+
+[Tick 285]
+Generated: P852 to Stuttgart (Priority 3)
+Generated: P853 to Berlin (Priority 2)
+Sorted to BST: P852 → Stuttgart
+Sorted to BST: P853 → Berlin
+>>> RETURNED (misrouted): P268
+>>> REPROCESSED from ReturnStack: P268
+>>> REPROCESSED from ReturnStack: P97
+Rotated to terminal: Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 286]
+Generated: P854 to Munich (Priority 3)
+Generated: P855 to Cologne (Priority 1)
+Generated: P856 to Berlin (Priority 3)
+Generated: P857 to Munich (Priority 1)
+Sorted to BST: P854 → Munich
+Sorted to BST: P855 → Cologne
+Sorted to BST: P856 → Berlin
+Sorted to BST: P857 → Munich
+Dispatched: P280 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 287]
+Generated: P858 to Berlin (Priority 2)
+Generated: P859 to Berlin (Priority 3)
+Generated: P860 to Munich (Priority 1)
+Sorted to BST: P858 → Berlin
+Sorted to BST: P859 → Berlin
+Sorted to BST: P860 → Munich
+Dispatched: P284 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 288]
+Generated: P861 to Stuttgart (Priority 2)
+Generated: P862 to Berlin (Priority 3)
+Generated: P863 to Stuttgart (Priority 2)
+Sorted to BST: P861 → Stuttgart
+Sorted to BST: P862 → Berlin
+Sorted to BST: P863 → Stuttgart
+>>> RETURNED (misrouted): P286
+>>> REPROCESSED from ReturnStack: P286
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 289]
+Generated: P864 to Cologne (Priority 3)
+Generated: P865 to Munich (Priority 1)
+Sorted to BST: P864 → Cologne
+Sorted to BST: P865 → Munich
+Dispatched: P291 to Munich
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 290]
+Generated: P866 to Berlin (Priority 1)
+Generated: P867 to Berlin (Priority 2)
+Sorted to BST: P866 → Berlin
+Sorted to BST: P867 → Berlin
+Dispatched: P295 to Munich
+Rotated to terminal: Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 291]
+Generated: P868 to Cologne (Priority 3)
+Generated: P869 to Stuttgart (Priority 3)
+Sorted to BST: P868 → Cologne
+Sorted to BST: P869 → Stuttgart
+Dispatched: P217 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 292]
+Generated: P870 to Hamburg (Priority 3)
+Generated: P871 to Cologne (Priority 2)
+Generated: P872 to Cologne (Priority 1)
+Generated: P873 to Cologne (Priority 2)
+Sorted to BST: P870 → Hamburg
+Sorted to BST: P871 → Cologne
+Sorted to BST: P872 → Cologne
+Sorted to BST: P873 → Cologne
+Dispatched: P220 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 293]
+Generated: P874 to Cologne (Priority 3)
+Generated: P875 to Berlin (Priority 3)
+Sorted to BST: P874 → Cologne
+Sorted to BST: P875 → Berlin
+Dispatched: P234 to Cologne
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 294]
+Generated: P876 to Stuttgart (Priority 1)
+Generated: P877 to Berlin (Priority 2)
+Generated: P878 to Munich (Priority 2)
+Generated: P879 to Hamburg (Priority 1)
+Sorted to BST: P876 → Stuttgart
+Sorted to BST: P877 → Berlin
+Sorted to BST: P878 → Munich
+Sorted to BST: P879 → Hamburg
+>>> RETURNED (misrouted): P238
+>>> REPROCESSED from ReturnStack: P238
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 295]
+Generated: P880 to Stuttgart (Priority 2)
+Generated: P881 to Berlin (Priority 2)
+Sorted to BST: P880 → Stuttgart
+Sorted to BST: P881 → Berlin
+Dispatched: P245 to Cologne
+Rotated to terminal: Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 296]
+Generated: P882 to Cologne (Priority 2)
+Generated: P883 to Berlin (Priority 2)
+Generated: P884 to Cologne (Priority 2)
+Generated: P885 to Stuttgart (Priority 3)
+Sorted to BST: P882 → Cologne
+Sorted to BST: P883 → Berlin
+Sorted to BST: P884 → Cologne
+Sorted to BST: P885 → Stuttgart
+Dispatched: P266 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 297]
+Generated: P886 to Hamburg (Priority 3)
+Generated: P887 to Munich (Priority 1)
+Generated: P888 to Stuttgart (Priority 1)
+Sorted to BST: P886 → Hamburg
+Sorted to BST: P887 → Munich
+Sorted to BST: P888 → Stuttgart
+>>> RETURNED (misrouted): P271
+>>> REPROCESSED from ReturnStack: P271
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 298]
+Generated: P889 to Hamburg (Priority 3)
+Generated: P890 to Stuttgart (Priority 2)
+Sorted to BST: P889 → Hamburg
+Sorted to BST: P890 → Stuttgart
+Dispatched: P277 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 299]
+Generated: P891 to Hamburg (Priority 3)
+Generated: P892 to Hamburg (Priority 2)
+Sorted to BST: P891 → Hamburg
+Sorted to BST: P892 → Hamburg
+Dispatched: P281 to Stuttgart
+Queue size: 0
+ReturnStack size: 0
+
+[Tick 300]
+Generated: P893 to Cologne (Priority 2)
+Generated: P894 to Hamburg (Priority 3)
+Generated: P895 to Munich (Priority 1)
+Sorted to BST: P893 → Cologne
+Sorted to BST: P894 → Hamburg
+Sorted to BST: P895 → Munich
+>>> RETURNED (misrouted): P285
+>>> REPROCESSED from ReturnStack: P285
+Rotated to terminal: Berlin
+Queue size: 0
+ReturnStack size: 0
+
